@@ -1,0 +1,21 @@
+moa,EcNissle_gt3
+"C-Source, alcohol",1
+"C-Source, amide",0
+"C-Source, amine",0
+"C-Source, amino acid",14
+"C-Source, carbohydrate",47
+"C-Source, carboxylic acid",24
+"C-Source, ester",2
+"C-Source, fatty acid",2
+"C-Source, polymer",2
+"N-Source, amino acid",22
+"N-Source, inorganic",1
+"N-Source, other",18
+"N-Source, peptide",12
+Negative control,0
+Nutritional supplement,0
+"Nutritional supplement, Positive control",0
+"P-Source, inorganic",7
+"P-Source, organic",45
+"S-Source, inorganic",5
+"S-Source, organic",22
