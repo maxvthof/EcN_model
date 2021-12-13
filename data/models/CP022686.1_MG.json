@@ -71873,7 +71873,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"b4104 and CIW80_15815 and CIW80_15820",
+"gene_reaction_rule":"CIW80_15810 and CIW80_15815 and CIW80_15820",
 "subsystem":"Transport, Inner Membrane",
 "notes":{
 "original_bigg_ids":[
@@ -85072,7 +85072,7 @@
 }
 },
 {
-"id":"b4104",
+"id":"CIW80_15810",
 "name":"phnE",
 "notes":{
 "original_bigg_ids":[

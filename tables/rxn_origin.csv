@@ -268,8 +268,8 @@ ACCOAC,iML1515,automatic,3.1,none
 NADK,iML1515,automatic,3.1,none
 ICHORS_copy2,iML1515,removed,3.1,Duplicate reaction. Removed in 4.1. Original was kept.
 SUCBZS,iML1515,automatic,3.1,none
-DHBD,Draft model,manual,4.6,none
-ICHORT,Draft model,manual,4.6,none
+DHBD,iML1515,automatic,3.1,none
+ICHORT,iML1515,automatic,3.1,none
 RBK_L1,iML1515,automatic,3.1,none
 RBP4E,iML1515,automatic,3.1,none
 NTD2,iML1515,automatic,3.1,none
@@ -364,7 +364,7 @@ EX_but_e,iML1515,automatic,3.1,none
 EX_cbl1_e,iML1515,automatic,3.1,none
 ACNML,iML1515,automatic,3.1,none
 CAT,iML1515,automatic,3.1,none
-SERASr,Draft model,manual,4.6,none
+SERASr,iML1515,automatic,3.1,none
 DMSOR2,iML1515,automatic,3.1,none
 ACMAMUT,iML1515,automatic,3.1,none
 DDGALK,iML1515,automatic,3.1,none
@@ -770,7 +770,7 @@ CHOLD,iML1515,automatic,3.1,none
 DRPA,iML1515,automatic,3.1,none
 TKT2,iML1515,automatic,3.1,none
 EX_ch4_e,iML1515,automatic,3.1,none
-FEENTERabcpp,Draft model,manual,4.6,none
+FEENTERabcpp,iML1515,automatic,3.1,none
 FECRMabcpp,iML1515,automatic,3.1,none
 GAMtex,iML1515,automatic,3.1,none
 GBBTNtex,iML1515,automatic,3.1,none
@@ -813,7 +813,7 @@ ACt2rpp,iML1515,automatic,3.1,none
 EX_fe3dcit_e,iML1515,automatic,3.1,none
 EX_fe3hox_e,iML1515,automatic,3.1,none
 EX_fecrm_e,iML1515,automatic,3.1,none
-EX_feenter_e,Draft model,manual,4.6,none
+EX_feenter_e,iML1515,automatic,3.1,none
 EX_feoxam_e,iML1515,automatic,3.1,none
 EX_cbi_e,iML1515,automatic,3.1,none
 EX_arbtn_fe3_e,iML1515,automatic,3.1,none
@@ -861,7 +861,7 @@ FRUptspp,iML1515,automatic,3.1,none
 FUCtpp,iML1515,automatic,3.1,none
 FUMt2_2pp,iML1515,automatic,3.1,none
 FUMt2_3pp,iML1515,automatic,3.1,none
-FEENTERtonex,Draft model,manual,4.6,none
+FEENTERtonex,iML1515,automatic,3.1,none
 CSNt2pp,iML1515,automatic,3.1,none
 CYTDt2pp_copy1,iML1515,removed,3.1,"Duplicate reaction. Removed in 4.1.""CYTDt2pp_copy1_copy2"" was kept as correct reaction."
 CYTDt2pp_copy2,iML1515,automatic,3.1,"Renamed to CYTDt2pp_copy2 in 4.1. Original reaction and/or ""_copy1"" was removed"
@@ -995,10 +995,10 @@ EX_sel_e,iML1515,automatic,3.1,none
 EX_hg2_e,iML1515,automatic,3.1,none
 MALTATr,iML1515,automatic,3.1,none
 DHBSH,iML1515,automatic,3.1,none
-ENTERES,Draft model,manual,4.6,none
+ENTERES,iML1515,automatic,3.1,none
 FEOXAMUtex,iML1515,automatic,3.1,none
-ARBTNtpp,Draft model,manual,4.6,none
-ARBTNtex,Draft model,manual,4.6,none
+ARBTNtpp,iML1515,automatic,3.1,none
+ARBTNtex,iML1515,automatic,3.1,none
 23CAMPtex,iML1515,automatic,3.1,none
 23CCMPtex,iML1515,automatic,3.1,none
 23CUMPtex,iML1515,automatic,3.1,none
@@ -1007,8 +1007,8 @@ ARBTNtex,Draft model,manual,4.6,none
 3CMPtex,iML1515,automatic,3.1,none
 LADGMDH,iML1515,automatic,3.1,none
 ALAGLUE,iML1515,automatic,3.1,none
-FEENTERtpp,Draft model,manual,4.6,none
-FEENTERtex,Draft model,manual,4.6,none
+FEENTERtpp,iML1515,automatic,3.1,none
+FEENTERtex,iML1515,automatic,3.1,none
 FE3HOXUtpp,iML1515,automatic,3.1,none
 FEOXAMUtpp,iML1515,automatic,3.1,none
 FECRMUtpp,iML1515,automatic,3.1,none
@@ -1031,8 +1031,8 @@ UDCPDPpp,iML1515,automatic,3.1,none
 ECAP2pp,iML1515,automatic,3.1,none
 FE3Ri,iML1515,automatic,3.1,none
 FE3HOXR3,iML1515,automatic,3.1,none
-FEENTERR1,Draft model,manual,4.6,none
-FEENTERR3,Draft model,manual,4.6,none
+FEENTERR1,iML1515,automatic,3.1,none
+FEENTERR3,iML1515,automatic,3.1,none
 SULFACtex,iML1515,automatic,3.1,none
 EX_sulfac_e,iML1515,automatic,3.1,none
 EX_butso3_e,iML1515,automatic,3.1,none
@@ -1084,10 +1084,10 @@ GPDDA1pp,iML1515,automatic,3.1,none
 GPDDA5pp,iML1515,automatic,3.1,none
 ETHAtex,iML1515,automatic,3.1,none
 G3PStex,iML1515,automatic,3.1,none
-FEENTERR2,Draft model,manual,4.6,none
+FEENTERR2,iML1515,automatic,3.1,none
 FLVR,iML1515,automatic,3.1,none
 FE3HOXR1,iML1515,automatic,3.1,none
-FEENTERexs,Draft model,manual,4.6,none
+FEENTERexs,iML1515,automatic,3.1,none
 FE3HOXexs,iML1515,automatic,3.1,none
 FECRMR3,iML1515,automatic,3.1,none
 FDMO2,iML1515,automatic,3.1,none
@@ -1129,10 +1129,10 @@ AGM3Pt2pp,iML1515,automatic,3.1,none
 AGM4Pt2pp,iML1515,automatic,3.1,none
 AGMt2pp,iML1515,automatic,3.1,none
 FECRMexs,iML1515,automatic,3.1,none
-ARBTNR1,Draft model,manual,4.6,none
-ARBTNR2,Draft model,manual,4.6,none
-ARBTNR3,Draft model,manual,4.6,none
-ARBTNexs,Draft model,manual,4.6,none
+ARBTNR1,iML1515,automatic,3.1,none
+ARBTNR2,iML1515,automatic,3.1,none
+ARBTNR3,iML1515,automatic,3.1,none
+ARBTNexs,iML1515,automatic,3.1,none
 FEOXAMexs,iML1515,automatic,3.1,none
 FEOXAMR1,iML1515,automatic,3.1,none
 FEOXAMR2,iML1515,automatic,3.1,none
@@ -1235,9 +1235,9 @@ ASNNpp,iML1515,automatic,3.1,none
 GLUNpp,iML1515,automatic,3.1,none
 NTD12,iML1515,automatic,3.1,none
 FECRMtonex,iML1515,automatic,3.1,none
-ARBTNtonex,Draft model,manual,4.6,none
+ARBTNtonex,iML1515,automatic,3.1,none
 ADOCBLabcpp,iML1515,automatic,3.1,none
-EX_enter_e,Draft model,manual,4.6,none
+EX_enter_e,iML1515,automatic,3.1,none
 EX_fecrm_un_e,iML1515,automatic,3.1,none
 EX_cgly_e,iML1515,automatic,3.1,none
 EX_chtbs_e,iML1515,automatic,3.1,none
@@ -1404,7 +1404,7 @@ EX_no2_e,iML1515,automatic,3.1,none
 HACD3,iML1515,automatic,3.1,none
 ACACtex,iML1515,automatic,3.1,none
 ACNAMtex,iML1515,automatic,3.1,none
-ARBTNabcpp,Draft model,manual,4.6,none
+ARBTNabcpp,iML1515,automatic,3.1,none
 NNDMBRT,iML1515,automatic,3.1,none
 THRA2,iML1515,automatic,3.1,none
 H2Stex,iML1515,automatic,3.1,none
@@ -1826,7 +1826,7 @@ EX_3hpppn_e,iML1515,automatic,3.1,none
 EX_man6p_e,iML1515,automatic,3.1,none
 EX_tsul_e,iML1515,automatic,3.1,none
 PHEt2rpp,iML1515,automatic,3.1,none
-DHBS,Draft model,manual,4.6,none
+DHBS,iML1515,automatic,3.1,none
 EX_n2o_e,iML1515,automatic,3.1,none
 MDDCP1pp,iML1515,automatic,3.1,none
 GUI2,iML1515,automatic,3.1,none
@@ -2474,8 +2474,8 @@ NADPHXD,iML1515,automatic,3.1,none
 NADHHR,iML1515,automatic,3.1,none
 NADPHXE,iML1515,automatic,3.1,none
 ALAtpp,iML1515,automatic,3.1,none
-DHBSZ3FEabcpp,Draft model,manual,4.6,none
-FE3DHBZS3R,Draft model,manual,4.6,none
+DHBSZ3FEabcpp,iML1515,automatic,3.1,none
+FE3DHBZS3R,iML1515,automatic,3.1,none
 DXYLONtpp,iML1515,automatic,3.1,none
 DXYLTD,iML1515,automatic,3.1,none
 2DDARAA,iML1515,automatic,3.1,none
@@ -2486,8 +2486,8 @@ UGCIAMH,iML1515,automatic,3.1,none
 METGLCUR,iML1515,automatic,3.1,none
 ACOAD1fr,iML1515,automatic,3.1,none
 FE3DCITexs,iML1515,automatic,3.1,none
-FEENTERES,Draft model,manual,4.6,none
-FEENTERR4,Draft model,manual,4.6,none
+FEENTERES,iML1515,automatic,3.1,none
+FEENTERR4,iML1515,automatic,3.1,none
 DXYLONtex,iML1515,automatic,3.1,none
 PSURItex,iML1515,automatic,3.1,none
 ALR2x,iML1515,automatic,3.1,none
@@ -2607,79 +2607,79 @@ LCARSyi,iML1515,automatic,3.1,none
 BIOMASS_Ec_iML1515_core_75p37M,iML1515,automatic,3.1,none
 BIOMASS_Ec_iML1515_WT_75p37M,iML1515,automatic,3.1,none
 DARBt3ipp,iLF82_1304,automatic,3.1,none
+CLB6PH,iLF82_1304,automatic,3.1,Reaction imbalanced solved in 4.2
 CLBH,iLF82_1304,automatic,3.1,Reaction imbalanced solved in 4.2
 SALCNH,iLF82_1304,automatic,3.1,none
-CLB6PH,iLF82_1304,automatic,3.1,Reaction imbalanced solved in 4.2
 CLBtpp,iLF82_1304,automatic,3.1,none
 SALCtpp,iLF82_1304,automatic,3.1,none
 CLBptspp,iLF82_1304,automatic,3.1,Reaction imbalanced solved in 4.2
 SALCptspp,iLF82_1304,automatic,3.1,Reaction imbalanced solved in 4.2
 CELLBpts_1,iLF82_1304,removed,3.1,Incorrect location of metabolites. Removed in 4.1. CELLBpts was kept.
 TYRTRS,iLF82_1304,automatic,3.1,none
-GTHPi_copy1,iLF82_1304,removed,3.1,Duplicate reaction. Removed in 4.1. Original was kept.
 GTHPi_copy2,iLF82_1304,removed,3.1,Duplicate reaction. Removed in 4.1. Original was kept.
+GTHPi_copy1,iLF82_1304,removed,3.1,Duplicate reaction. Removed in 4.1. Original was kept.
 PHETRS,iLF82_1304,automatic,3.1,none
 THRTRS,iLF82_1304,automatic,3.1,none
 TAG1PK,iLF82_1304,automatic,3.1,none
-CHITPH,iLF82_1304,automatic,3.1,none
 DC6PH,iLF82_1304,automatic,3.1,none
+CHITPH,iLF82_1304,automatic,3.1,none
 CHITOBpts,iLF82_1304,automatic,3.1,none
 ASPTRS,iLF82_1304,automatic,3.1,none
 ARGTRS,iLF82_1304,automatic,3.1,none
 DARBabcpp,iLF82_1304,automatic,3.1,none
-SALSYN,New Reaction,manual,4.6,none
+SALSYN,iLF82_1304,automatic,3.1,Reaction imbalanced solved in 4.2
 FEpp,iLF82_1304,automatic,3.1,none
 FEex,iLF82_1304,automatic,3.1,none
 ADOCBLPS,iLF82_1304,automatic,3.1,none
 METTRS,iLF82_1304,automatic,3.1,none
-SALCHS4FEtonex,Draft model,manual,4.6,none
+SALCHS4FEtonex,iLF82_1304,automatic,3.1,none
 DMALRED,iLF82_1304,automatic,3.1,none
-3PGtex,iLF82_1304,automatic,3.1,none
-4HTHRtex,iLF82_1304,automatic,3.1,none
-GALAMtex,iLF82_1304,automatic,3.1,none
+PACt1,iLF82_1304,automatic,3.1,none
 GULNLtex,iLF82_1304,automatic,3.1,none
-AIRStex,iLF82_1304,automatic,3.1,none
-OAAtex,iLF82_1304,automatic,3.1,none
+3PGtex,iLF82_1304,automatic,3.1,none
+TAGtex,iLF82_1304,automatic,3.1,none
+RAFFtex,iLF82_1304,automatic,3.1,none
+4HTHRtex,iLF82_1304,automatic,3.1,none
+PENGt1,iLF82_1304,automatic,3.1,none
+3hoxpactex,iLF82_1304,automatic,3.1,none
 HPAtex,iLF82_1304,automatic,3.1,none
 DRIBtex,iLF82_1304,automatic,3.1,none
+TETtex,iLF82_1304,automatic,3.1,none
+DARBtex,iLF82_1304,automatic,3.1,none
 DXYLUDtex,iLF82_1304,automatic,3.1,none
+ICITtex,iLF82_1304,automatic,3.1,none
+2PGtex,iLF82_1304,automatic,3.1,none
+OAAtex,iLF82_1304,automatic,3.1,none
+GALAMtex,iLF82_1304,automatic,3.1,none
+AEPtex,iLF82_1304,automatic,3.1,none
+AIRStex,iLF82_1304,automatic,3.1,none
+SALCNtex,iLF82_1304,automatic,3.1,none
+FOAMtex,iLF82_1304,automatic,3.1,none
 6APAt1,iLF82_1304,automatic,3.1,none
 ACONCtex,iLF82_1304,automatic,3.1,none
-TETtex,iLF82_1304,automatic,3.1,none
-TAGtex,iLF82_1304,automatic,3.1,none
-2PGtex,iLF82_1304,automatic,3.1,none
-RAFFtex,iLF82_1304,automatic,3.1,none
-ICITtex,iLF82_1304,automatic,3.1,none
-3hoxpactex,iLF82_1304,automatic,3.1,none
-SALCNtex,iLF82_1304,automatic,3.1,none
-DARBtex,iLF82_1304,automatic,3.1,none
-FOAMtex,iLF82_1304,automatic,3.1,none
-SALCHSXtex,Draft model,manual,4.6,none
-PENGt1,iLF82_1304,automatic,3.1,none
-AEPtex,iLF82_1304,automatic,3.1,none
-PACt1,iLF82_1304,automatic,3.1,none
+SALCHSXtex,iLF82_1304,automatic,3.1,none
 4HOXPACt2pp,iLF82_1304,automatic,3.1,Reaction imbalanced solved in 4.2
 UPLA4NT,iLF82_1304,automatic,3.1,none
 NPHS,iLF82_1304,automatic,3.1,none
-HACD6i,iLF82_1304,removed,3.1,"Caused unbound flux. Removed in 4.1. ""HACDx"" (without i) was kept as correct reaction."
-DHACOAH,iLF82_1304,automatic,3.1,none
-HACD3i,iLF82_1304,removed,3.1,"Caused unbound flux. Removed in 4.1. ""HACDx"" (without i) was kept as correct reaction."
-HACD2i,iLF82_1304,removed,3.1,"Caused unbound flux. Removed in 4.1. ""HACDx"" (without i) was kept as correct reaction."
-HACD4i,iLF82_1304,removed,3.1,"Caused unbound flux. Removed in 4.1. ""HACDx"" (without i) was kept as correct reaction."
 HACD7i,iLF82_1304,removed,3.1,"Caused unbound flux. Removed in 4.1. ""HACDx"" (without i) was kept as correct reaction."
 HACD5i,iLF82_1304,removed,3.1,"Caused unbound flux. Removed in 4.1. ""HACDx"" (without i) was kept as correct reaction."
 HACD1i,iLF82_1304,removed,3.1,"Caused unbound flux. Removed in 4.1. ""HACDx"" (without i) was kept as correct reaction."
 HACD8i,iLF82_1304,removed,3.1,"Caused unbound flux. Removed in 4.1. ""HACDx"" (without i) was kept as correct reaction."
-OCDCAtexi,iLF82_1304,automatic,3.1,none
-HDCAt2pp,iLF82_1304,automatic,3.1,none
-OCDCEAtexi,iLF82_1304,automatic,3.1,none
-HDCAtexi,iLF82_1304,automatic,3.1,none
+HACD6i,iLF82_1304,removed,3.1,"Caused unbound flux. Removed in 4.1. ""HACDx"" (without i) was kept as correct reaction."
+DHACOAH,iLF82_1304,automatic,3.1,none
+HACD3i,iLF82_1304,removed,3.1,"Caused unbound flux. Removed in 4.1. ""HACDx"" (without i) was kept as correct reaction."
+HACD4i,iLF82_1304,removed,3.1,"Caused unbound flux. Removed in 4.1. ""HACDx"" (without i) was kept as correct reaction."
+HACD2i,iLF82_1304,removed,3.1,"Caused unbound flux. Removed in 4.1. ""HACDx"" (without i) was kept as correct reaction."
 TTDCAtexi,iLF82_1304,automatic,3.1,none
 DDCAtexi,iLF82_1304,automatic,3.1,none
-HDCEAtexi,iLF82_1304,automatic,3.1,none
 TTDCEAtexi,iLF82_1304,automatic,3.1,none
-OCDCAt2pp,iLF82_1304,automatic,3.1,none
+HDCAtexi,iLF82_1304,automatic,3.1,none
+OCDCAtexi,iLF82_1304,automatic,3.1,none
+HDCEAtexi,iLF82_1304,automatic,3.1,none
+HDCAt2pp,iLF82_1304,automatic,3.1,none
+OCDCEAtexi,iLF82_1304,automatic,3.1,none
 OCDCEAt2pp,iLF82_1304,automatic,3.1,none
+OCDCAt2pp,iLF82_1304,automatic,3.1,none
 TTDCAt2pp,iLF82_1304,automatic,3.1,none
 DDCAt2pp,iLF82_1304,automatic,3.1,none
 INSt2pp_copy2,iLF82_1304,automatic,3.1,"Renamed to INSt2pp_copy2 in 4.1. Original reaction and/or ""_copy1"" was removed"
@@ -2702,16 +2702,16 @@ LYSTRS,iLF82_1304,automatic,3.1,none
 PFOR,iLF82_1304,automatic,3.1,none
 FLDR,iLF82_1304,automatic,3.1,none
 OMPHHX,iLF82_1304,automatic,3.1,none
-MMM2,iLF82_1304,automatic,3.1,Reaction imbalanced solved in 4.2
 PPCSCT,iLF82_1304,automatic,3.1,none
+MMM2,iLF82_1304,automatic,3.1,Reaction imbalanced solved in 4.2
 INSt2pp_copy1,iLF82_1304,removed,3.1,"Duplicate reaction. Removed in 4.1.""INSt2pp_copy1_copy2"" was kept as correct reaction."
 4HTHRtrpp,iLF82_1304,automatic,3.1,none
 PPRDNDH,iLF82_1304,automatic,3.1,Reaction imbalanced solved in 4.2
 ACGALptspp,iLF82_1304,automatic,3.1,Reaction imbalanced solved in 4.2
 GALAMPTSpp,iLF82_1304,automatic,3.1,Reaction imbalanced solved in 4.2
 GALAM6PISO,iLF82_1304,automatic,3.1,"Associated gene corrected to ""CIW80_10170""  in 4.2"
-ACGAL6PISO,iLF82_1304,removed,3.1,Reaction was changed to ACGAL6PDA in 4.2
 ACGAL6PI,iLF82_1304,removed,3.1,"Reaction removed in 4.2. Replaced by two other reactions, ACGAL6PDA and GALAM6PISO"
+ACGAL6PISO,iLF82_1304,removed,3.1,Reaction was changed to ACGAL6PDA in 4.2
 ENLIPIDAt1ex,iLF82_1304,automatic,3.1,none
 FMETTRS,iLF82_1304,automatic,3.1,none
 DSCLCOCH,iLF82_1304,automatic,3.1,none
@@ -2721,18 +2721,18 @@ GLYTRS,iLF82_1304,automatic,3.1,none
 VPAMTr_copy1,iLF82_1304,removed,3.1,Duplicate reaction. Removed in 4.1. Original was kept.
 VPAMTr_copy2,iLF82_1304,removed,3.1,Duplicate reaction. Removed in 4.1. Original was kept.
 XYLUt2pp,iLF82_1304,automatic,3.1,none
-GLXO1,iLF82_1304,automatic,3.1,none
 4ABUTD,iLF82_1304,automatic,3.1,none
-GLYALDDr,iLF82_1304,automatic,3.1,none
 ALDD2x,iLF82_1304,automatic,3.1,none
 ALDD31,iLF82_1304,automatic,3.1,none
+GLYALDDr,iLF82_1304,automatic,3.1,none
 IMACTD,iLF82_1304,automatic,3.1,Reaction imbalanced solved in 4.2
+GLXO1,iLF82_1304,automatic,3.1,none
 SELCYSS,iLF82_1304,automatic,3.1,none
-GLCR1TRA1,iLF82_1304,automatic,3.1,none
 GLCR1TRB1,iLF82_1304,automatic,3.1,none
+GLCR1TRA1,iLF82_1304,automatic,3.1,none
+GALR1TRB2,iLF82_1304,automatic,3.1,none
 GALR1TRA2,iLF82_1304,automatic,3.1,Reaction imbalanced
 GLCTR3,iLF82_1304,automatic,3.1,none
-GALR1TRB2,iLF82_1304,automatic,3.1,none
 HEPKB2,iLF82_1304,automatic,3.1,Reaction imbalanced
 HEPKA2,iLF82_1304,automatic,3.1,Reaction imbalanced
 GALR1TRB1,iLF82_1304,automatic,3.1,none
@@ -2741,26 +2741,26 @@ HEPT3,iLF82_1304,automatic,3.1,none
 AMMQT8_2,iLF82_1304,automatic,3.1,none
 URFGTT,iLF82_1304,automatic,3.1,Reaction imbalanced solved in 4.2
 OPHHX,iLF82_1304,automatic,3.1,none
-CTECOAI8_copy1,iLF82_1304,removed,3.1,Duplicate reaction. Removed in 4.1. Original was kept
-CTECOAI6_copy2,iLF82_1304,removed,3.1,Duplicate reaction. Removed in 4.1. Original was kept
-CTECOAI6_copy1,iLF82_1304,removed,3.1,Duplicate reaction. Removed in 4.1. Original was kept
-CTECOAI8_copy2,iLF82_1304,removed,3.1,Duplicate reaction. Removed in 4.1. Original was kept
 CTECOAI7_copy1,iLF82_1304,removed,3.1,Duplicate reaction. Removed in 4.1. Original was kept
 CTECOAI7_copy2,iLF82_1304,removed,3.1,Duplicate reaction. Removed in 4.1. Original was kept
+CTECOAI6_copy1,iLF82_1304,removed,3.1,Duplicate reaction. Removed in 4.1. Original was kept
+CTECOAI8_copy1,iLF82_1304,removed,3.1,Duplicate reaction. Removed in 4.1. Original was kept
+CTECOAI8_copy2,iLF82_1304,removed,3.1,Duplicate reaction. Removed in 4.1. Original was kept
+CTECOAI6_copy2,iLF82_1304,removed,3.1,Duplicate reaction. Removed in 4.1. Original was kept
 GHBDHx,iLF82_1304,automatic,3.1,none
 NICRNS,iLF82_1304,automatic,3.1,Reaction imbalanced solved in 4.2
 NMNHYD,iLF82_1304,automatic,3.1,none
 NACODA,iLF82_1304,removed,3.1,"No evidence for existence in literature, EcoCyc & KeGG. Removed in 4.5"
 SBDH,iLF82_1304,automatic,3.1,Reaction imbalanced solved in 4.2
-UNK3,iLF82_1304,automatic,3.1,none
 TRPTA,iLF82_1304,automatic,3.1,Reaction imbalanced solved in 4.2
+UNK3,iLF82_1304,automatic,3.1,none
 PDHcr,iLF82_1304,automatic,3.1,Reaction imbalanced solved in 4.2
 ASPt2pp_copy1,iLF82_1304,removed,3.1,Duplicate reaction. Removed in 4.1. Original was kept
 GLYBt2pp_copy1,iLF82_1304,removed,3.1,Duplicate reaction. Removed in 4.1. Original was kept.
 GLYBt2pp_copy2,iLF82_1304,removed,3.1,Duplicate reaction. Removed in 4.1. Original was kept.
 3HBCOAHL,iLF82_1304,automatic,3.1,Reaction imbalanced solved in 4.2
-ALAt2pp_copy1,iLF82_1304,removed,3.1,Duplicate reaction. Removed in 4.1. Original was kept
 GLYt2pp_copy1,iLF82_1304,removed,3.1,Duplicate reaction. Removed in 4.1. Original was kept
+ALAt2pp_copy1,iLF82_1304,removed,3.1,Duplicate reaction. Removed in 4.1. Original was kept
 ARGDr,iLF82_1304,automatic,3.1,none
 VALTRS,iLF82_1304,automatic,3.1,none
 RNMK,iLF82_1304,automatic,3.1,none
@@ -2775,38 +2775,38 @@ DADK_copy1,iLF82_1304,removed,3.1,Duplicate reaction. Removed in 4.1. Original w
 ALLTAMH,iLF82_1304,automatic,3.1,none
 CYSTRS,iLF82_1304,automatic,3.1,none
 AGMPTRCtpp,iLF82_1304,automatic,3.1,none
+ENTERES2,iLF82_1304,automatic,3.1,none
 ENTERH,iLF82_1304,automatic,3.1,Reaction imbalanced solved in 4.2
-ENTERES2,Draft model,manual,4.6,none
-FE3DHBZSabcpp,Draft model,manual,4.6,none
-SALCHS4FEabcpp,Draft model,manual,4.6,none
-SALCHS2FEabcpp,Draft model,manual,4.6,none
+SALCHS4FEabcpp,iLF82_1304,automatic,3.1,none
+FE3DHBZSabcpp,iLF82_1304,automatic,3.1,none
+SALCHS2FEabcpp,iLF82_1304,automatic,3.1,none
 ADOCBLPP,iLF82_1304,automatic,3.1,none
 LEUTRS,iLF82_1304,automatic,3.1,none
 OMMBLHX,iLF82_1304,automatic,3.1,none
 GLNTRS,iLF82_1304,automatic,3.1,none
 GLCOAS,iLF82_1304,automatic,3.1,Reaction imbalanced solved in 4.2
 RNAMtpp,iLF82_1304,automatic,3.1,none
-SERTRS2,iLF82_1304,automatic,3.1,none
 SERTRS,iLF82_1304,automatic,3.1,none
+SERTRS2,iLF82_1304,automatic,3.1,none
 ASNTRS,iLF82_1304,automatic,3.1,none
 URAt2pp_copy2,iLF82_1304,automatic,3.1,"Renamed to %s in 4.1. Original reaction and ""URAt2pp_copy1"" were removed"
 PROD2,iLF82_1304,automatic,3.1,none
 AH6PI,iUMN146_1321,automatic,3.1,Reaction imbalanced solved in 4.2
 PPOR,iUMN146_1321,automatic,3.1,Reaction imbalanced solved in 4.2
-ACOAD7,iUMN146_1321,removed,3.1,Caused unbound flux. Removed in 4.1. ACOAD7f was kept as correct reaction.
-ACOAD3,iUMN146_1321,removed,3.1,Caused unbound flux. Removed in 4.1. ACOAD3f was kept as correct reaction.
 ACOAD5,iUMN146_1321,removed,3.1,Caused unbound flux. Removed in 4.1. ACOAD5f was kept as correct reaction.
+ACOAD3,iUMN146_1321,removed,3.1,Caused unbound flux. Removed in 4.1. ACOAD3f was kept as correct reaction.
+ACOAD7,iUMN146_1321,removed,3.1,Caused unbound flux. Removed in 4.1. ACOAD7f was kept as correct reaction.
 ACOAD4,iUMN146_1321,removed,3.1,Caused unbound flux. Removed in 4.1. ACOAD4f was kept as correct reaction.
 ACOAD2,iUMN146_1321,removed,3.1,Caused unbound flux. Removed in 4.1. ACOAD2f was kept as correct reaction.
 ACOAD6,iUMN146_1321,removed,3.1,Caused unbound flux. Removed in 4.1. ACOAD6f was kept as correct reaction.
-SALCHS2FEtonex,Draft model,manual,4.6,none
-FEENTER2tpp,Draft model,manual,4.6,none
-SALCHS4abcpp,Draft model,manual,4.6,none
-ENTERGLCT1,Draft model,manual,4.6,none
-ENTERGLCT2,Draft model,manual,4.6,none
+SALCHS2FEtonex,iUMN146_1321,automatic,3.1,none
+FEENTER2tpp,iUMN146_1321,automatic,3.1,none
+SALCHS4abcpp,iUMN146_1321,automatic,3.1,none
+ENTERGLCT2,iUMN146_1321,automatic,3.1,none
+ENTERGLCT1,iUMN146_1321,automatic,3.1,none
 MNabc_1,iUMN146_1321,automatic,3.1,none
-THMDt2pp,iEcolC_1368,removed,3.1,"Duplicate reaction. Removed in 4.1.""THMDt2pp_copy2"" was kept as correct reaction."
 ADNt2pp,iEcolC_1368,removed,3.1,"Duplicate reaction. Removed in 4.1.""ADNt2pp_copy2"" was kept as correct reaction."
+THMDt2pp,iEcolC_1368,removed,3.1,"Duplicate reaction. Removed in 4.1.""THMDt2pp_copy2"" was kept as correct reaction."
 FADRx_copy1,iEcolC_1368,removed,3.1,Duplicate reaction. Removed in 4.1. Original was kept.
 HEPK2,iECB_1328,automatic,3.1,none
 GLCTR2,iECB_1328,automatic,3.1,none
@@ -2821,13 +2821,13 @@ CYTK2_2,iECIAI1_1343,removed,3.1,Incorrect reaction. Removed in 4.1. CYTK2 was k
 UAG4Ei_copy2,iEKO11_1354,removed,3.1,Duplicate reaction. Removed in 4.1. Original was kept.
 UAG4Ei_copy1,iEKO11_1354,automatic,3.1,Renamed to UAG4Ei in 4.1.
 DKFPS2,iECSF_1327,automatic,3.1,Reaction imbalanced solved in 4.2
-SUCR,iECW_1372,automatic,3.1,none
-FFSD,iECW_1372,automatic,3.1,none
 RAFH,iECW_1372,automatic,3.1,Reaction imbalanced solved in 4.2
+SUCR,iECW_1372,automatic,3.1,none
 RAFHpp,iECW_1372,automatic,3.1,none
+FFSD,iECW_1372,automatic,3.1,none
 SUCtpp,iECW_1372,automatic,3.1,none
-OPETDC,iECW_1372,automatic,3.1,Reaction imbalanced solved in 4.2
 HHDDI,iECW_1372,automatic,3.1,none
+OPETDC,iECW_1372,automatic,3.1,Reaction imbalanced solved in 4.2
 OPTCCL,iECW_1372,automatic,3.1,none
 CMCMSAD,iECW_1372,automatic,3.1,none
 DHPDO,iECW_1372,automatic,3.1,none
@@ -2838,35 +2838,37 @@ OHEDH,iECW_1372,automatic,3.1,none
 2HH24DDH,iECW_1372,automatic,3.1,none
 4H2KPILY,iECW_1372,automatic,3.1,none
 3HOXPACt2pp,iECW_1372,automatic,3.1,none
+HPA3MO,iECW_1372,automatic,3.1,Reaction imbalanced solved in 4.2
 3HPAOX,iECW_1372,automatic,3.1,Reaction imbalanced solved in 4.2
 4HOXPACMOF,iECW_1372,automatic,3.1,Reaction imbalanced solved in 4.2
-HPA3MO,iECW_1372,automatic,3.1,Reaction imbalanced solved in 4.2
 FADRx_copy2,iECW_1372,removed,3.1,Incorrect gene. Removed in 4.1. Original was kept.
-4H3NPACAM,iECW_1372,automatic,3.1,Reaction imbalanced
 PENAM,iECW_1372,automatic,3.1,Reaction imbalanced solved in 4.2
+4H3NPACAM,iECW_1372,automatic,3.1,Reaction imbalanced
 4PHACTE,iECW_1372,automatic,3.1,Reaction imbalanced solved in 4.2
+PHACTE,iECW_1372,automatic,3.1,Reaction imbalanced solved in 4.2
 35PHACTE,iECW_1372,automatic,3.1,Reaction imbalanced solved in 4.2
 34PHACTE,iECW_1372,automatic,3.1,Reaction imbalanced
-3PHACTE,iECW_1372,automatic,3.1,Reaction imbalanced solved in 4.2
 2PHACTE,iECW_1372,automatic,3.1,Reaction imbalanced solved in 4.2
-PHACTE,iECW_1372,automatic,3.1,Reaction imbalanced solved in 4.2
-PHACOAOR,iECW_1372,automatic,3.1,Reaction imbalanced solved in 4.2
+3PHACTE,iECW_1372,automatic,3.1,Reaction imbalanced solved in 4.2
 3PHACOAOR,iECW_1372,automatic,3.1,Reaction imbalanced solved in 4.2
+PHACOAOR,iECW_1372,automatic,3.1,Reaction imbalanced solved in 4.2
 3NTYROXDApp,iECW_1372,automatic,3.1,Reaction imbalanced solved in 4.2
+4HALDD,iECW_1372,automatic,3.1,Reaction imbalanced solved in 4.2
 4H3NALDD,iECW_1372,automatic,3.1,Reaction imbalanced solved in 4.2
 34DHALDD,iECW_1372,automatic,3.1,none
-4HALDD,iECW_1372,automatic,3.1,Reaction imbalanced solved in 4.2
 FEENTERtex_copy2,iECW_1372,removed,3.1,Incorrect gene. Removed in 4.1. Original was kept.
 G3PCT,iECW_1372,automatic,3.1,Reaction imbalanced solved in 4.2
 CELLBpts,iECS88_1305,automatic,3.1,none
 GLCtex,iSbBS512_1146,automatic,3.1,none
-ICHORS,Draft model,manual,4.6,none
+ICHORS,iSFxv_1172,automatic,3.1,none
 12PPDStpp_copy2,iSFxv_1172,automatic,3.1,Renamed to 12PPDStpp in 4.1. Original reaction missed GPR and was removed
 MALt5,iSFxv_1172,automatic,3.1,none
-SALCHS2FEexs,Import from BiGG - STM_v1_0,manual,4.6,none
-SALCHS4FEexs,Import from BiGG - STM_v1_0,manual,4.6,none
+SALCHS2FEexs,iS_1188,automatic,3.1,Reaction imbalanced
 DHPTDCs,iS_1188,automatic,3.1,none
+SALCHS4FEexs,iS_1188,automatic,3.1,none
 UAG4Ei,iEKO11_1354,automatic,3.1,Reaction imbalanced solved in 4.2
+ACGAL6PDA,New Reaction,manual,4.2,Reaction added in 4.2. Replaces one step of the reaction ACGAL6PISO
+4H3NPACALDt2rpp,New Reaction,manual,4.2,Reaction added in 4.2. Facilitates transport over inner membrane to enable pathway
 MALDDH,iML1515,manual,4.3,"Added in 4.3. to complete a blocked pathway. Due to low homology, no gene was added"
 EX_lipa_cold_e,iLF82_1304,manual,4.4,Added in 4.4. to complete a blocked pathway
 INSTt2,iLF82_1304,manual,4.4,Added in 4.4 to complete a blocked pathway
@@ -3007,5 +3009,3 @@ CLBTNtex,New Reaction,manual,4.6,none
 EX_clbtn_e,New Reaction,manual,4.6,none
 MTRK,iAF1260,manual,4.6,Added based on Sun et al. (2005) in notebook 4.6
 MTRI,iAF1260,manual,4.6,Added based on Sun et al. (2005) in notebook 4.6
-ACGAL6PDA,New Reaction,manual,4.2,Reaction added in 4.2. Replaces one step of the reaction ACGAL6PISO
-4H3NPACALDt2rpp,New Reaction,manual,4.2,Reaction added in 4.2. Facilitates transport over inner membrane to enable pathway
