@@ -1,9 +1,11 @@
 index,#plate_id,well_id,chemical,category,moa,co_id,EcNissle,EcNissle_gt3,MNXM,bigg,exchange,EcNissle_model_growth_rate,EcNissle_biolog_growth,EcNissle_model_growth,EcNissle_Prediction,Plate,Well No.,Compound,V1,V2,V3,difference,shared
-PM01_D07,PM01,D07,a-Ketobutyric acid,carbon,"C-Source, carboxylic acid",C00109,1.66666666667,0,MNXM159,2obut,EX_2obut_e,#,No Growth,#,#,PM1,D07,α-keto-butyric acid,G,G,1,-1,1
+PM01_D07,PM01,D07,a-Ketobutyric acid,carbon,"C-Source, carboxylic acid",C00109,1.66666666667,0,MNXM159,2obut,EX_2obut_e,0,No Growth,No Growth,TN,PM1,D07,α-keto-butyric acid,G,G,1,-1,1
 PM01_E02,PM01,E02,m-Tartaric acid,carbon,"C-Source, carboxylic acid",C00552,0.0,0,MNXM1031,tartr__M,EX_tartr__M_e,#,No Growth,#,#,PM1,E02,m-tartaric acid,G,G,1,-1,1
 PM01_G09,PM01,G09,Mono-Methylsuccinate,carbon,"C-Source, carboxylic acid",,1.33333333333,0,#,methsucc,EX_methsucc_e,#,No Growth,#,#,PM1,G09,mono methyl-succinate,G,G,1,-1,1
 PM02_E12,PM02,E12,5-Keto-D-Gluconic acid,carbon,"C-Source, carboxylic acid",C01062,0.0,0,MNXM963,5dglcn,EX_5dglcn_e,0,No Growth,No Growth,TN,PM2,E12,5-keto-D-gluconic acid,G,G,1,-1,1
-PM03_F07,PM03,F07,Guanosine,nitrogen,"N-Source, other",C00387,0.333333333333,0,MNXM401,gsn,EX_gsn_e,0.8881448519725866,No Growth,Growth,FP,PM3,F07,guanosine,LG,G,1,-1,1
-PM03_G11,PM03,G11,d-Amino-N-Valeric acid,nitrogen,"N-Source, other",C00431,0.0,0,MNXM792,5aptn,EX_5aptn_e,#,No Growth,#,#,PM3,G11,amino-N-valeric acid,G,G,1,-1,1
+PM03_E11,PM03,E11,N-Acetyl-D-Glucosamine,nitrogen,"N-Source, other",C00140,2.33333333333,0,MNXM143,acgam,EX_acgam_e,0.4630028326513366,No Growth,Growth,FP,PM3,E11,N-acetyl-D-glucosamine,G,G,1,-1,1
+PM03_F07,PM03,F07,Guanosine,nitrogen,"N-Source, other",C00387,0.333333333333,0,MNXM401,gsn,EX_gsn_e,0.5550270464679772,No Growth,Growth,FP,PM3,F07,guanosine,LG,G,1,-1,1
+PM03_G03,PM03,G03,Uric acid,nitrogen,"N-Source, other",C00366,2.33333333333,0,MNXM441,urate,EX_urate_e,0,No Growth,No Growth,TN,PM3,G03,uric acid,G,G,1,-1,1
+PM03_G11,PM03,G11,d-Amino-N-Valeric acid,nitrogen,"N-Source, other",C00431,0.0,0,MNXM792,5aptn,EX_5aptn_e,0,No Growth,No Growth,TN,PM3,G11,amino-N-valeric acid,G,G,1,-1,1
 PM04_C05,PM04,C05,2-Deoxy-D-Glucose 6-Phosphate,phosphate & sulphur,"P-Source, organic",C06369,0.0,0,MNXM3809,2doxg6p,EX_2doxg6p_e,#,No Growth,#,#,PM4,C05,2-deoxy-D-glucose 6-phosphate,G,G,1,-1,1
 PM04_C09,PM04,C09,Cytidine 3`-Monophosphate,phosphate & sulphur,"P-Source, organic",C05822 ,0.0,0,#,#,#,#,No Growth,#,#,PM4,C09,cytidine-3-monophosphate,G,G,1,-1,1

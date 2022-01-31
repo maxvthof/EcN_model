@@ -8,14 +8,14 @@ moa,EcNissle_gt3
 "C-Source, ester",2
 "C-Source, fatty acid",2
 "C-Source, polymer",2
-"N-Source, amino acid",22
+"N-Source, amino acid",19
 "N-Source, inorganic",1
-"N-Source, other",18
+"N-Source, other",13
 "N-Source, peptide",12
 Negative control,0
 Nutritional supplement,0
 "Nutritional supplement, Positive control",0
 "P-Source, inorganic",7
-"P-Source, organic",45
+"P-Source, organic",44
 "S-Source, inorganic",5
-"S-Source, organic",22
+"S-Source, organic",21
