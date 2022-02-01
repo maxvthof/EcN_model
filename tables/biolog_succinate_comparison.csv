@@ -1,0 +1,320 @@
+index,#plate_id,well_id,chemical,category,moa,co_id,MNXM,bigg,exchange,EcN_total,EcN_decision_succ,EcN_decision_succ_model_growth_rate_x,EcN_decision_succ_biolog_growth,EcN_decision_succ_model_growth,EcN_decision_succ_Prediction_x,EcN_decision_succ_model_growth_rate_y,EcN_decision_succ_Prediction_y
+PM01_A02,PM01,A02,L-Arabinose,carbon,"C-Source, carbohydrate",C00259,MNXM461,arab__L,EX_arab__L_e,+/+/+/+,5,0.4630028326513226,Growth,Growth,TP,0.4630028326513226,TP
+PM01_A03,PM01,A03,N-Acetyl-D-Glucosamine,carbon,"C-Source, carbohydrate",C00140,MNXM143,acgam,EX_acgam_e,+/+/+/+,5,0.9927726153601776,Growth,Growth,TP,0.9927726153601776,TP
+PM01_A04,PM01,A04,D-Saccharic acid,carbon,"C-Source, carboxylic acid",C00818,MNXM744,glcr,EX_glcr_e,+/+/+/+,5,0.46300283265217496,Growth,Growth,TP,0.46300283265217496,TP
+PM01_A05,PM01,A05,Succinic acid,carbon,"C-Source, carboxylic acid",C00042,MNXM25,succ,EX_succ_e,+/+/+/+,5,0.46300283265196734,Growth,Growth,TP,0.46300283265196734,TP
+PM01_A06,PM01,A06,D-Galactose,carbon,"C-Source, carbohydrate",C00124,MNXM390,gal,EX_gal_e,+/+/w/w,5,0.4630028326513224,Growth,Growth,TP,0.4630028326513224,TP
+PM01_A07,PM01,A07,L-Aspartic acid,carbon,"C-Source, amino acid",C00049,MNXM42,asp__L,EX_asp__L_e,+/+/+/+,5,0.8171482354425975,Growth,Growth,TP,0.8171482354425975,TP
+PM01_A08,PM01,A08,L-Proline,carbon,"C-Source, amino acid",C00148,MNXM114,pro__L,EX_pro__L_e,+/+/+/+,5,0.6177317593248338,Growth,Growth,TP,0.6177317593248338,TP
+PM01_A09,PM01,A09,D-Alanine,carbon,"C-Source, amino acid",C00133,MNXM156,ala__D,EX_ala__D_e,+/+/+/+,5,0.6731391787802596,Growth,Growth,TP,0.6731391787802596,TP
+PM01_A10,PM01,A10,D-Trehalose,carbon,"C-Source, carbohydrate",C01083,MNXM198,tre,EX_tre_e,+/+/+/+,5,0.46300283265133024,Growth,Growth,TP,0.46300283265133024,TP
+PM01_A11,PM01,A11,D-Mannose,carbon,"C-Source, carbohydrate",C00159,MNXM182,man,EX_man_e,+/+/+/+,5,0.4630028326513239,Growth,Growth,TP,0.4630028326513239,TP
+PM01_A12,PM01,A12,Dulcitol,carbon,"C-Source, carbohydrate",C01697,MNXM1233,galt,EX_galt_e,-/-/-/-,0,0.4630028326513279,No Growth,Growth,FP,0.4630028326513279,FP
+PM01_B01,PM01,B01,D-Serine,carbon,"C-Source, amino acid",C00740,MNXM694,ser__D,EX_ser__D_e,+/+/+/+,5,0.6586704003512632,Growth,Growth,TP,0.6586704003512632,TP
+PM01_B02,PM01,B02,D-Sorbitol,carbon,"C-Source, carbohydrate",C00794,MNXM469,sbt__D,EX_sbt__D_e,+/+/+/+,5,0.4630028326513401,Growth,Growth,TP,0.4630028326513401,TP
+PM01_B03,PM01,B03,Glycerol,carbon,"C-Source, carbohydrate",C00116,MNXM89612,glyc,EX_glyc_e,+/+/+/+,5,0.4630028326513263,Growth,Growth,TP,0.4630028326513263,TP
+PM01_B04,PM01,B04,L-Fucose,carbon,"C-Source, carbohydrate",C01019,MNXM659,fuc__L_e,EX_fuc__L_e,+/+/+/+,5,0.4630028326513305,Growth,Growth,TP,0.4630028326513305,TP
+PM01_B05,PM01,B05,D-Glucuronic acid,carbon,"C-Source, carboxylic acid",C00191,MNXM241,glcur,EX_glcur_e,+/+/+/+,5,0.4630028326513243,Growth,Growth,TP,0.4630028326513243,TP
+PM01_B06,PM01,B06,D-Gluconic acid,carbon,"C-Source, carboxylic acid",C00257,MNXM341,glcn__D,EX_glcn_e,+/+/+/+,5,0.4630028326513187,Growth,Growth,TP,0.4630028326513187,TP
+PM01_B07,PM01,B07,DL-a-Glycerol Phosphate,carbon,"C-Source, carbohydrate",C00093,MNXM66,glyc3p,EX_glyc3p_e,+/+/+/+,5,0.4630028326513191,Growth,Growth,TP,0.4630028326513191,TP
+PM01_B08,PM01,B08,D-Xylose,carbon,"C-Source, carbohydrate",C00181,MNXM348,xyl__D,EX_xyl__D_e,+/+/+/+,5,0.4630028326513269,Growth,Growth,TP,0.4630028326513269,TP
+PM01_B09,PM01,B09,L-Lactic acid,carbon,"C-Source, carboxylic acid",C01432,MNXM3041,lac__L,EX_lac__L_e,+/+/+/+,5,0.4630028326513318,Growth,Growth,TP,0.4630028326513318,TP
+PM01_B10,PM01,B10,Formic acid,carbon,"C-Source, carboxylic acid",C00058,MNXM39,for,EX_for_e,-/-/-/-,0,0.024657913217732995,No Growth,Growth,FP,0.024657913217732995,FP
+PM01_B11,PM01,B11,D-Mannitol,carbon,"C-Source, carbohydrate",C00392,MNXM615,mnl,EX_mnl_e,+/w/w/w,5,0.46300283265132597,Growth,Growth,TP,0.46300283265132597,TP
+PM01_B12,PM01,B12,L-Glutamic acid,carbon,"C-Source, amino acid",C00025,MNXM89557,glu__L,EX_glu__L_e,+/+/+/+,5,0.8342724800378178,Growth,Growth,TP,0.8342724800378178,TP
+PM01_C01,PM01,C01,D-Glucose-6-Phosphate,carbon,"C-Source, carbohydrate",C00092,MNXM160,g6p,EX_g6p_e,+/+/+/+,5,0.46300283265132225,Growth,Growth,TP,0.46300283265132225,TP
+PM01_C02,PM01,C02,D-Galactonic acid-g-Lactone,carbon,"C-Source, carboxylic acid",C03383,MNXM3005,gal14lac,EX_gal14lac_e,+/+/+/+,5,#,Growth,#,#,#,#
+PM01_C03,PM01,C03,DL-Malic acid,carbon,"C-Source, carboxylic acid",C00497,MNXM1608,mal__D,EX_mal__D_e,+/+/+/+,5,0.4630028326513251,Growth,Growth,TP,0.4630028326513251,TP
+PM01_C04,PM01,C04,D-Ribose,carbon,"C-Source, carbohydrate",C00121,MNXM242,rib__D,EX_rib__D_e,+/+/+/+,5,0.46300283265131886,Growth,Growth,TP,0.46300283265131886,TP
+PM01_C05,PM01,C05,Tween 20,carbon,"C-Source, fatty acid",C11624,#,MNXM88333,EX_MNXM88333_e,-/-/-/-,0,#,No Growth,#,#,#,#
+PM01_C06,PM01,C06,L-Rhamnose,carbon,"C-Source, carbohydrate",C00507,MNXM2967,rmn,EX_rmn_e,+/+/+/w,5,0.4630028326513323,Growth,Growth,TP,0.4630028326513323,TP
+PM01_C07,PM01,C07,D-Fructose,carbon,"C-Source, carbohydrate",C00095,MNXM175,fru,EX_fru_e,+/+/+/+,5,0.46300283265132,Growth,Growth,TP,0.46300283265132,TP
+PM01_C08,PM01,C08,Acetic acid,carbon,"C-Source, carboxylic acid",C00033,MNXM26,ac,EX_ac_e,+/+/w/w,5,0.4324588288181956,Growth,Growth,TP,0.4324588288181956,TP
+PM01_C09,PM01,C09,a-D-Glucose,carbon,"C-Source, carbohydrate",C00031,MNXM41,glc__D,EX_glc__D_e,+/w/w/w,5,0.46300283265134495,Growth,Growth,TP,0.46300283265134495,TP
+PM01_C10,PM01,C10,Maltose,carbon,"C-Source, carbohydrate",C00208,MNXM165,malt,EX_malt_e,+/+/+/+,5,0.4630028326513295,Growth,Growth,TP,0.4630028326513295,TP
+PM01_C11,PM01,C11,D-Melibiose,carbon,"C-Source, carbohydrate",C05402,MNXM1434,melib,EX_melib_e,+/+/+/+,5,0.4630028326513327,Growth,Growth,TP,0.4630028326513327,TP
+PM01_C12,PM01,C12,Thymidine,carbon,"C-Source, carbohydrate",C00214,MNXM420,thymd,EX_thymd_e,+/+/+/+,5,0.4652574576583101,Growth,Growth,TP,0.4652574576583101,TP
+PM01_D01,PM01,D01,L-Asparagine,carbon,"C-Source, amino acid",C00152,MNXM147,asn__L,EX_asn__L_e,+/+/+/+,5,0.8204021006739602,Growth,Growth,TP,0.8204021006739602,TP
+PM01_D02,PM01,D02,D-Aspartic acid,carbon,"C-Source, amino acid",C00402,MNXM974,asp__D,EX_asp__D_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM01_D03,PM01,D03,D-Glucosaminic acid,carbon,"C-Source, carboxylic acid",C03752,MNXM2469,#,EX_MNXM2469_e,-/-/-/-,0,#,No Growth,#,#,#,#
+PM01_D04,PM01,D04,"1,2-Propanediol",carbon,"C-Source, alcohol",C00583,MNXM1118,#,EX_MNXM1118_e,-/-/-/-,0,#,No Growth,#,#,#,#
+PM01_D05,PM01,D05,Tween 40,carbon,"C-Source, fatty acid",,#,MNXM88334,EX_MNXM88334_e,-/-/-/-,0,#,No Growth,#,#,#,#
+PM01_D06,PM01,D06,a-Ketoglutaric acid,carbon,"C-Source, carboxylic acid",C00026,MNXM20,akg,EX_akg_e,+/+/+/+,5,0.4630028326513382,Growth,Growth,TP,0.4630028326513382,TP
+PM01_D07,PM01,D07,a-Ketobutyric acid,carbon,"C-Source, carboxylic acid",C00109,MNXM159,2obut,EX_2obut_e,w/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM01_D08,PM01,D08,a-Methyl-D-Galactoside,carbon,"C-Source, carbohydrate",C03619,MNXM3304,#,EX_MNXM3304_e,+/+/+/w,5,#,Growth,#,#,#,#
+PM01_D09,PM01,D09,a-D-Lactose,carbon,"C-Source, carbohydrate",C00243,MNXM362,lcts,EX_lcts_e,+/w/w/w,5,0.46300283265132697,Growth,Growth,TP,0.46300283265132697,TP
+PM01_D10,PM01,D10,Lactulose,carbon,"C-Source, carbohydrate",C07064,MNXM12073,#,EX_MNXM12073_e,+/+/+/+,5,#,Growth,#,#,#,#
+PM01_D11,PM01,D11,Sucrose,carbon,"C-Source, carbohydrate",C00089,MNXM167,sucr,EX_sucr_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM01_D12,PM01,D12,Uridine,carbon,"C-Source, carbohydrate",C00299,MNXM288,uri,EX_uri_e,+/+/+/+,5,0.9927726153601759,Growth,Growth,TP,0.9927726153601759,TP
+PM01_E01,PM01,E01,L-Glutamine,carbon,"C-Source, amino acid",C00064,MNXM37,gln__L,EX_gln__L_e,+/+/+/+,5,0.8375922826582046,Growth,Growth,TP,0.8375922826582046,TP
+PM01_E02,PM01,E02,m-Tartaric acid,carbon,"C-Source, carboxylic acid",C00552,MNXM1031,tartr__M,EX_tartr__M_e,-/-/-/-,0,#,No Growth,#,#,#,#
+PM01_E03,PM01,E03,D-Glucose-1-Phosphate,carbon,"C-Source, carbohydrate",C00103,MNXM89588,g1p,EX_g1p_e,+/+/+/+,5,0.46300283265132675,Growth,Growth,TP,0.46300283265132675,TP
+PM01_E04,PM01,E04,D-Fructose-6-Phosphate,carbon,"C-Source, carbohydrate",C00085,MNXM162235,f6p,EX_f6p_e,+/+/+/+,5,0.4630028326513177,Growth,Growth,TP,0.4630028326513177,TP
+PM01_E05,PM01,E05,Tween 80,carbon,"C-Source, fatty acid",C11625,#,MNXM88336,EX_MNXM88336_e,-/-/-/-,0,#,No Growth,#,#,#,#
+PM01_E07,PM01,E07,a-Hydroxybutyric acid,carbon,"C-Source, carboxylic acid",C05984,MNXM4968,2hbut,EX_2hbut_e,w/-/-/-,0,#,No Growth,#,#,#,#
+PM01_E08,PM01,E08,b-Methyl-D-Glucoside,carbon,"C-Source, carbohydrate",,#,mbdg,EX_mbdg_e,+/+/+/w,5,0,Growth,No Growth,FN,0,FN
+PM01_E09,PM01,E09,Adonitol,carbon,"C-Source, carbohydrate",C00474,MNXM1820,rbt,EX_rbt_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM01_E10,PM01,E10,Maltotriose,carbon,"C-Source, carbohydrate",C01835,MNXM468,malttr,EX_malttr_e,+/+/+/+,5,0.46300283265132913,Growth,Growth,TP,0.46300283265132913,TP
+PM01_E11,PM01,E11,2`-Deoxyadenosine,carbon,"C-Source, carbohydrate",C00559,MNXM625,dad_2,EX_dad_2_e,+/+/+/+,5,0.9927726153601769,Growth,Growth,TP,0.9927726153601769,TP
+PM01_E12,PM01,E12,Adenosine,carbon,"C-Source, carbohydrate",C00212,MNXM212,adn,EX_adn_e,+/+/+/+,5,0.9927726153602563,Growth,Growth,TP,0.9927726153602563,TP
+PM01_F01,PM01,F01,Gly-Asp,carbon,"C-Source, amino acid",C02871,MNXM92541,glu_asp__L,EX_gly_asp__L_e,+/+/+/+,5,0.9619694469652113,Growth,Growth,TP,0.9619694469652113,TP
+PM01_F02,PM01,F02,Citric acid,carbon,"C-Source, carboxylic acid",C00158,MNXM131,cit,EX_cit_e,-/-/-/-,0,0.4630028326513289,No Growth,Growth,FP,0.4630028326513289,FP
+PM01_F03,PM01,F03,m-Inositol,carbon,"C-Source, carbohydrate",C00137,MNXM127,inost,EX_inost_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM01_F04,PM01,F04,D-Threonine,carbon,"C-Source, amino acid",C00820,MNXM2514,#,EX_MNXM2514_e,-/-/-/-,0,#,No Growth,#,#,#,#
+PM01_F05,PM01,F05,Fumaric acid,carbon,"C-Source, carboxylic acid",C00122,MNXM93,fum,EX_fum_e,+/+/+/+,5,0.4630028326512854,Growth,Growth,TP,0.4630028326512854,TP
+PM01_F07,PM01,F07,Propionic acid,carbon,"C-Source, carboxylic acid",C00163,MNXM356,ppa,EX_ppa_e,+/+/+/+,5,0.4068067649368432,Growth,Growth,TP,0.4068067649368432,TP
+PM01_F09,PM01,F09,Glycolic acid,carbon,"C-Source, carboxylic acid",C00160,MNXM222,glyclt,EX_glyclt_e,+/+/+/+,5,0.34798661638446654,Growth,Growth,TP,0.34798661638446654,TP
+PM01_F10,PM01,F10,Glyoxylic acid,carbon,"C-Source, carboxylic acid",C00048,MNXM69,glx,EX_glx_e,w/w/w/w,5,0,Growth,No Growth,FN,0,FN
+PM01_F11,PM01,F11,D-Cellobiose,carbon,"C-Source, carbohydrate",C00185,#,cellb,EX_cellb_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM01_F12,PM01,F12,Inosine,carbon,"C-Source, carbohydrate",C00294,MNXM334,ins,EX_ins_e,+/+/+/+,5,0.5550270464679739,Growth,Growth,TP,0.5550270464679739,TP
+PM01_G01,PM01,G01,Gly-Glu,carbon,"C-Source, amino acid",,#,gly_L_glu__L,EX_gly_L_glu__L_e,+/+/+/+,5,#,Growth,#,#,#,#
+PM01_G02,PM01,G02,Tricarballylic acid,carbon,"C-Source, carboxylic acid",,#,tcb,EX_tcb_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM01_G03,PM01,G03,L-Serine,carbon,"C-Source, amino acid",C00065,MNXM53,ser__L,EX_ser__L_e,+/+/+/+,5,0.6586704003511714,Growth,Growth,TP,0.6586704003511714,TP
+PM01_G04,PM01,G04,L-Threonine,carbon,"C-Source, amino acid",C00188,MNXM142,thr__L,EX_thr__L_e,+/+/+/+,5,0.7741406807392442,Growth,Growth,TP,0.7741406807392442,TP
+PM01_G05,PM01,G05,L-Alanine,carbon,"C-Source, amino acid",C00041,MNXM32,ala__L,EX_ala__L_e,+/+/+/+,5,0.6731391787802675,Growth,Growth,TP,0.6731391787802675,TP
+PM01_G06,PM01,G06,Ala-Gly,carbon,"C-Source, amino acid",,#,ala_L_gly__L,EX_ala_L_gly__L_e,+/+/+/+,5,#,Growth,#,#,#,#
+PM01_G07,PM01,G07,Acetoacetic acid,carbon,"C-Source, carboxylic acid",C00164,MNXM154,acac,EX_acac_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM01_G08,PM01,G08,N-Acetyl-D-Mannosamine,carbon,"C-Source, carbohydrate",C00645,MNXM2403,acmana,EX_acmana_e,+/+/+/+,5,0.9927726153601801,Growth,Growth,TP,0.9927726153601801,TP
+PM01_G09,PM01,G09,Mono-Methylsuccinate,carbon,"C-Source, carboxylic acid",,#,methsucc,EX_methsucc_e,-/-/-/-,0,#,No Growth,#,#,#,#
+PM01_G11,PM01,G11,D-Malic acid,carbon,"C-Source, carboxylic acid",C00497,MNXM1608,mal__D,EX_mal__D_e,+/+/+/+,5,0.4630028326513301,Growth,Growth,TP,0.4630028326513301,TP
+PM01_G12,PM01,G12,L-Malic acid,carbon,"C-Source, carboxylic acid",C00149,MNXM98,mal__L,EX_mal__L_e,+/+/+/+,5,0.4630028326513305,Growth,Growth,TP,0.4630028326513305,TP
+PM01_H01,PM01,H01,Gly-Pro,carbon,"C-Source, amino acid",,#,gly_L_pro__L,EX_gly_L_pro__L_e,+/+/+/+,5,#,Growth,#,#,#,#
+PM01_H02,PM01,H02,p-Hydroxyphenyl Acetic acid,carbon,"C-Source, carboxylic acid",C00642,MNXM3863,4hphac,EX_4hphac_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM01_H03,PM01,H03,m-Hydroxyphenyl Acetic acid,carbon,"C-Source, carboxylic acid",C05593,MNXM1639,3hoxpac,EX_3hoxpac_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM01_H04,PM01,H04,Tyramine,carbon,"C-Source, amine",C00483,MNXM603,tym,EX_tym_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM01_H05,PM01,H05,D-Psicose,carbon,"C-Source, carbohydrate",C06468,MNXM8509,#,EX_MNXM8509_e,w/w/w/-,5,#,Growth,#,#,#,#
+PM01_H06,PM01,H06,L-Lyxose,carbon,"C-Source, carbohydrate",C01508,MNXM4641,lyx__L,EX_lyx__L_e,+/+/+/+,5,0.4630028326513258,Growth,Growth,TP,0.4630028326513258,TP
+PM01_H08,PM01,H08,Pyruvic acid,carbon,"C-Source, carboxylic acid",C00022,MNXM23,pyr,EX_pyr_e,+/+/+/+,5,0.46300283265132386,Growth,Growth,TP,0.46300283265132386,TP
+PM01_H09,PM01,H09,L-Galactonic acid-g-Lactone,carbon,"C-Source, carboxylic acid",C01115,MNXM1085,#,EX_MNXM1085_e,+/+/+/+,5,#,Growth,#,#,#,#
+PM01_H10,PM01,H10,D-Galacturonic acid,carbon,"C-Source, carboxylic acid",C00333,MNXM48464,galur,EX_galur_e,+/+/+/+,5,0.4630028326513327,Growth,Growth,TP,0.4630028326513327,TP
+PM01_H11,PM01,H11,Phenylethylamine,carbon,"C-Source, amine",C05332,MNXM660,peamn,EX_peamn_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM01_H12,PM01,H12,2-Aminoethanol,carbon,"C-Source, alcohol",C00189,MNXM218,etha,EX_etha_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM02_A02,PM02,A02,Chondroitin Sulfate C,carbon,"C-Source, polymer",C00635,MNXM8395,#,EX_MNXM8395_e,-/-/-/-,0,#,No Growth,#,#,#,#
+PM02_A06,PM02,A06,Dextrin,carbon,"C-Source, polymer",C00721,#,dextrin,EX_dextrin_e,w/w/w/w,5,0,Growth,No Growth,FN,0,FN
+PM02_A08,PM02,A08,Glycogen,carbon,"C-Source, polymer",C00182,MNXM55375,glycogen,EX_glycogen_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM02_A10,PM02,A10,Laminarin,carbon,"C-Source, polymer",C00771,MNXM59700,#,EX_MNXM59700_e,+/-/-/-,0,#,No Growth,#,#,#,#
+PM02_A11,PM02,A11,Mannan,carbon,"C-Source, polymer",C00464,#,mannan,EX_mannan_e,-/-/-/-,0,#,No Growth,#,#,#,#
+PM02_A12,PM02,A12,Pectin,carbon,"C-Source, polymer",C00714,MNXM107600,pectin,EX_pectin_e,-/w/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM02_B01,PM02,B01,N-Acetyl-D-Galactosamine,carbon,"C-Source, carbohydrate",C01074,MNXM164782,acgal,EX_acgal_e,+/+/+/+,5,0.9927726153601755,Growth,Growth,TP,0.9927726153601755,TP
+PM02_B02,PM02,B02,N-Acetyl-Neuraminic acid,carbon,"C-Source, carboxylic acid",C00270,MNXM227,acnam,EX_acnam_e,+/+/w/w,5,0.992772615360178,Growth,Growth,TP,0.992772615360178,TP
+PM02_B03,PM02,B03,b-D-Allose,carbon,"C-Source, carbohydrate",C01487,MNXM1919,all__D,EX_all__D_e,+/+/+/w,5,0.4630028326511795,Growth,Growth,TP,0.4630028326511795,TP
+PM02_B04,PM02,B04,Amygdalin,carbon,"C-Source, carbohydrate",C08325,MNXM4201,#,EX_MNXM4201_e,-/-/-/-,0,#,No Growth,#,#,#,#
+PM02_B05,PM02,B05,D-Arabinose,carbon,"C-Source, carbohydrate",C00216,MNXM544,arab__D,EX_arab__D_e,+/+/+/+,5,0,Growth,No Growth,FN,0,FN
+PM02_B06,PM02,B06,D-Arabitol,carbon,"C-Source, carbohydrate",C01904,MNXM1018,abt__D,EX_abt__D_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM02_B07,PM02,B07,L-Arabitol,carbon,"C-Source, carbohydrate",C00532,MNXM801,abt__L,EX_abt__L_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM02_B08,PM02,B08,Arbutin,carbon,"C-Source, carbohydrate",C06186,MNXM2683,arbt,EX_arbt_e,+/w/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM02_B09,PM02,B09,2-Deoxy-D-Ribose,carbon,"C-Source, carbohydrate",C01801,MNXM90412,drib,EX_drib_e,+/+/+/+,5,0.4630028326513382,Growth,Growth,TP,0.4630028326513382,TP
+PM02_B10,PM02,B10,i-Erythritol,carbon,"C-Source, carbohydrate",C00503,MNXM3592,#,EX_MNXM3592_e,-/-/-/-,0,#,No Growth,#,#,#,#
+PM02_B11,PM02,B11,D-Fucose,carbon,"C-Source, carbohydrate",C01018,MNXM8489,#,EX_MNXM8489_e,-/-/-/-,0,#,No Growth,#,#,#,#
+PM02_C01,PM02,C01,Gentiobiose,carbon,"C-Source, carbohydrate",C08240,MNXM18038,#,EX_MNXM18038_e,-/+/-/-,0,#,No Growth,#,#,#,#
+PM02_C02,PM02,C02,L-Glucose,carbon,"C-Source, carbohydrate",,#,glc__L,EX_glc__L_e,-/-/-/-,0,#,No Growth,#,#,#,#
+PM02_C06,PM02,C06,a-Methyl-D-Glucoside,carbon,"C-Source, carbohydrate",,#,amdglc,EX_amdglc_e,-/-/-/-,0,#,No Growth,#,#,#,#
+PM02_C07,PM02,C07,b-Methyl-D-Galactoside,carbon,"C-Source, carbohydrate",C03619,MNXM3304,#,EX_MNXM3304_e,w/w/w/w,5,#,Growth,#,#,#,#
+PM02_C09,PM02,C09,b-Methyl-D-Glucuronic acid,carbon,"C-Source, carboxylic acid",C08350,MNXM146121,#,EX_MNXM146121_e,+/+/+/+,5,#,Growth,#,#,#,#
+PM02_C12,PM02,C12,Palatinose,carbon,"C-Source, carbohydrate",C01742,MNXM3518,pala,EX_pala_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM02_D01,PM02,D01,D-Raffinose,carbon,"C-Source, carbohydrate",C00492,MNXM621,raffin,EX_raffin_e,w/+/+/+,5,0,Growth,No Growth,FN,0,FN
+PM02_D02,PM02,D02,Salicin,carbon,"C-Source, carbohydrate",C01451,MNXM2561,salcn,EX_salcn_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM02_D04,PM02,D04,L-Sorbose,carbon,"C-Source, carbohydrate",C00247,MNXM588,srb__L,EX_srb__L_e,+/+/+/+,5,0.46300283265133346,Growth,Growth,TP,0.46300283265133346,TP
+PM02_D05,PM02,D05,Stachyose,carbon,"C-Source, carbohydrate",C01613,MNXM1503,stys,EX_stys_e,-/-/-/-,0,#,No Growth,#,#,#,#
+PM02_D06,PM02,D06,D-Tagatose,carbon,"C-Source, carbohydrate",C00795,MNXM92401,tag__D,EX_tag__D_e,+/+/+/+,5,0,Growth,No Growth,FN,0,FN
+PM02_D08,PM02,D08,Xylitol,carbon,"C-Source, carbohydrate",C00379,MNXM510,xylt,EX_xylt_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM02_D10,PM02,D10,g-Amino-N-Butyric acid,carbon,"C-Source, carboxylic acid",C00334,MNXM192,4abut,EX_4abut_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM02_D11,PM02,D11,d-Amino Valeric acid,carbon,"C-Source, carboxylic acid",C00431,MNXM792,5aptn,EX_5aptn_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM02_D12,PM02,D12,Butyric acid,carbon,"C-Source, carboxylic acid",C00246,MNXM458,but,EX_but_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM02_E01,PM02,E01,Capric acid,carbon,"C-Source, carboxylic acid",C01571,MNXM1043,dca,EX_dca_e,w/-/-/w,0,0.31593762832464306,No Growth,Growth,FP,0.31593762832464306,FP
+PM02_E02,PM02,E02,Caproic acid,carbon,"C-Source, carboxylic acid",C01585,MNXM1653,hxa,EX_hxa_e,-/-/-/-,0,0.3469736768091854,No Growth,Growth,FP,0.3469736768091854,FP
+PM02_E03,PM02,E03,Citraconic acid,carbon,"C-Source, carboxylic acid",C02226,MNXM2356,citac,EX_citac_e,-/-/-/-,0,#,No Growth,#,#,#,#
+PM02_E04,PM02,E04,Citramalic acid,carbon,"C-Source, carboxylic acid",C00815,MNXM2357,citm,EX_citm_e,-/-/-/-,0,#,No Growth,#,#,#,#
+PM02_E05,PM02,E05,D-Glucosamine,carbon,"C-Source, carbohydrate",C00329,MNXM533,gam,EX_gam_e,+/+/+/+,5,0.9927726153601772,Growth,Growth,TP,0.9927726153601772,TP
+PM02_E06,PM02,E06,2-Hydroxybenzoic acid,carbon,"C-Source, carboxylic acid",C00805,MNXM378,salc,EX_salc_e,-/-/-/-,0,#,No Growth,#,#,#,#
+PM02_E07,PM02,E07,4-Hydroxybenzoic acid,carbon,"C-Source, carboxylic acid",C00156,MNXM164,4hbz,EX_4hbz_e,-/-/-/-,0,#,No Growth,#,#,#,#
+PM02_E08,PM02,E08,b-Hydroxybutyric acid,carbon,"C-Source, carboxylic acid",C01089,MNXM663,bhb,EX_bhb_e,w/w/w/w,5,0,Growth,No Growth,FN,0,FN
+PM02_E09,PM02,E09,g-Hydroxybutyric acid,carbon,"C-Source, carboxylic acid",C00989,MNXM514,ghb,EX_ghb_e,-/+/+/+,5,#,Growth,#,#,#,#
+PM02_E11,PM02,E11,Itaconic acid,carbon,"C-Source, carboxylic acid",C00490,MNXM1747,itacon,EX_itacon_e,-/-/-/-,0,#,No Growth,#,#,#,#
+PM02_E12,PM02,E12,5-Keto-D-Gluconic acid,carbon,"C-Source, carboxylic acid",C01062,MNXM963,5dglcn,EX_5dglcn_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM02_F02,PM02,F02,Malonic acid,carbon,"C-Source, carboxylic acid",C00383,MNXM477,malon,EX_malon_e,-/-/-/-,0,#,No Growth,#,#,#,#
+PM02_F04,PM02,F04,Oxalic acid,carbon,"C-Source, carboxylic acid",C00209,MNXM291,oxa,EX_oxa_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM02_F05,PM02,F05,Oxalomalic acid,carbon,"C-Source, carboxylic acid",C01990,MNXM3850,#,EX_MNXM3850_e,-/-/-/-,0,#,No Growth,#,#,#,#
+PM02_F06,PM02,F06,Quinic acid,carbon,"C-Source, carboxylic acid",C00296,MNXM474,quin,EX_quin_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM02_F08,PM02,F08,Sebacic acid,carbon,"C-Source, carboxylic acid",C08277,MNXM9103,sebacid,EX_sebacid_e,-/-/-/-,0,#,No Growth,#,#,#,#
+PM02_F11,PM02,F11,D-Tartaric acid,carbon,"C-Source, carboxylic acid",C02107,MNXM7948,tartr__D,EX_tartr__D_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM02_F12,PM02,F12,L-Tartaric acid,carbon,"C-Source, carboxylic acid",C00898,MNXM816,tartr__L,EX_tartr__L_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM02_G01,PM02,G01,Acetamide,carbon,"C-Source, amide",C06244,MNXM4428,ad,EX_ad_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM02_G03,PM02,G03,N-Acetyl-L-Glutamic acid,carbon,"C-Source, amino acid",C00624,MNXM730,acglu,EX_acglu_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM02_G04,PM02,G04,L-Arginine,carbon,"C-Source, amino acid",C00062,MNXM70,arg__L,EX_arg__L_e,-/-/-/-,0,0.641946692447589,No Growth,Growth,FP,0.641946692447589,FP
+PM02_G05,PM02,G05,Glycine,carbon,"C-Source, amino acid",C00037,MNXM29,gly,EX_gly_e,-/-/-/-,0,0.4195552345144005,No Growth,Growth,FP,0.4195552345144005,FP
+PM02_G06,PM02,G06,L-Histidine,carbon,"C-Source, amino acid",C00135,MNXM134,his__L,EX_his__L_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM02_G07,PM02,G07,L-Homoserine,carbon,"C-Source, amino acid",C00263,MNXM353,hom__L,EX_hom__L_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM02_G08,PM02,G08,Hydroxy-L-Proline,carbon,"C-Source, amino acid",C01015,MNXM90406,#,EX_MNXM90406_e,-/-/-/-,0,#,No Growth,#,#,#,#
+PM02_G09,PM02,G09,L-Isoleucine,carbon,"C-Source, amino acid",C00407,MNXM231,ile__L,EX_ile__L_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM02_G10,PM02,G10,L-Leucine,carbon,"C-Source, amino acid",C00123,MNXM140,leu__L,EX_leu__L_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM02_G11,PM02,G11,L-Lysine,carbon,"C-Source, amino acid",C00047,MNXM78,lys__L,EX_lys__L_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM02_G12,PM02,G12,L-Methionine,carbon,"C-Source, amino acid",C00073,MNXM61,met__L,EX_met__L_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM02_H01,PM02,H01,L-Ornithine,carbon,"C-Source, amino acid",C00077,MNXM89689,orn__L,EX_orn__L_e,-/-/-/-,0,#,No Growth,#,#,#,#
+PM02_H02,PM02,H02,L-Phenylalanine,carbon,"C-Source, amino acid",C00079,MNXM97,phe__L,EX_phe__L_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM02_H04,PM02,H04,L-Valine,carbon,"C-Source, amino acid",C00183,MNXM199,val__L,EX_val__L_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM02_H05,PM02,H05,"D,L-Carnitine",carbon,"C-Source, carboxylic acid",C00487,#,crn,EX_crn_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM02_H07,PM02,H07,"D,L-Octopamine",carbon,"C-Source, amine",C04227,MNXM3679,#,EX_MNXM3679_e,-/-/-/-,0,#,No Growth,#,#,#,#
+PM02_H08,PM02,H08,Putrescine,carbon,"C-Source, amine",C00134,MNXM118,ptrc,EX_ptrc_e,-/-/-/-,0,0.5493846973131583,No Growth,Growth,FP,0.5493846973131583,FP
+PM02_H09,PM02,H09,Dihydroxyacetone,carbon,"C-Source, alcohol",C00184,MNXM460,dha,EX_dha_e,w/w/w/-,5,0.4630028326513269,Growth,Growth,TP,0.4630028326513269,TP
+PM02_H10,PM02,H10,"2,3-Butanediol",carbon,"C-Source, alcohol",C03044,MNXM2757,23btdl,EX_23btdl_e,-/-/-/-,0,#,No Growth,#,#,#,#
+PM02_H11,PM02,H11,"2,3-Butanedione",carbon,"C-Source, alcohol",C00741,MNXM1467,diact,EX_diact_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM02_H12,PM02,H12,3-Hydroxy-2-buta,carbon,"C-Source, alcohol",C00466,MNXM1268,#,EX_MNXM1268_e,-/-/-/-,0,#,No Growth,#,#,#,#
+PM03_A02,PM03,A02,Ammonia,nitrogen,"N-Source, inorganic",C00014,MNXM15,nh4,EX_nh4_e,+/+/+/+,5,0.4630028326513249,Growth,Growth,TP,0.4630028326513249,TP
+PM03_A03,PM03,A03,Nitrite,nitrogen,"N-Source, inorganic",C00088,MNXM107,no2,EX_no2_e,w/-/-/-,0,0.4630028326513303,No Growth,Growth,FP,0.4630028326513303,FP
+PM03_A04,PM03,A04,Nitrate,nitrogen,"N-Source, inorganic",C00244,MNXM207,no3,EX_no3_e,w/-/-/-,0,0.4630028326513271,No Growth,Growth,FP,0.4630028326513271,FP
+PM03_A05,PM03,A05,Urea,nitrogen,"N-Source, other",C00086,MNXM117,urea,EX_urea_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM03_A06,PM03,A06,Biuret,nitrogen,"N-Source, other",C06555,MNXM1545,#,EX_MNXM1545_e,w/w/w/w,5,#,Growth,#,#,#,#
+PM03_A07,PM03,A07,L-Alanine,nitrogen,"N-Source, amino acid",C00041,MNXM32,ala__L,EX_ala__L_e,+/+/+/+,5,0.4630028326513245,Growth,Growth,TP,0.4630028326513245,TP
+PM03_A08,PM03,A08,L-Arginine,nitrogen,"N-Source, amino acid",C00062,MNXM70,arg__L,EX_arg__L_e,+/+/+/+,5,0.7110775693822106,Growth,Growth,TP,0.7110775693822106,TP
+PM03_A09,PM03,A09,L-Asparagine,nitrogen,"N-Source, amino acid",C00152,MNXM147,asn__L,EX_asn__L_e,+/+/+/+,5,0.7702625176972776,Growth,Growth,TP,0.7702625176972776,TP
+PM03_A10,PM03,A10,L-Aspartic acid,nitrogen,"N-Source, amino acid",C00049,MNXM42,asp__L,EX_asp__L_e,+/+/+/+,5,0.4630028326513267,Growth,Growth,TP,0.4630028326513267,TP
+PM03_A11,PM03,A11,L-Cysteine,nitrogen,"N-Source, amino acid",C00097,MNXM55,cys__L,EX_cys__L_e,+/+/+/+,5,0.4630028326501606,Growth,Growth,TP,0.4630028326501606,TP
+PM03_A12,PM03,A12,L-Glutamic acid,nitrogen,"N-Source, amino acid",C00025,MNXM89557,glu__L,EX_glu__L_e,+/+/+/+,5,0.4630028326513279,Growth,Growth,TP,0.4630028326513279,TP
+PM03_B01,PM03,B01,L-Glutamine,nitrogen,"N-Source, amino acid",C00064,MNXM37,gln__L,EX_gln__L_e,+/+/+/+,5,0.7700126937666812,Growth,Growth,TP,0.7700126937666812,TP
+PM03_B02,PM03,B02,Glycine,nitrogen,"N-Source, amino acid",C00037,MNXM29,gly,EX_gly_e,+/+/+/+,5,0.46300283265132486,Growth,Growth,TP,0.46300283265132486,TP
+PM03_B03,PM03,B03,L-Histidine,nitrogen,"N-Source, amino acid",C00135,MNXM134,his__L,EX_his__L_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM03_B04,PM03,B04,L-Isoleucine,nitrogen,"N-Source, amino acid",C00407,MNXM231,ile__L,EX_ile__L_e,+/+/+/w,5,0,Growth,No Growth,FN,0,FN
+PM03_B05,PM03,B05,L-Leucine,nitrogen,"N-Source, amino acid",C00123,MNXM140,leu__L,EX_leu__L_e,+/+/+/w,5,0,Growth,No Growth,FN,0,FN
+PM03_B06,PM03,B06,L-Lysine,nitrogen,"N-Source, amino acid",C00047,MNXM78,lys__L,EX_lys__L_e,+/+/+/+,5,0,Growth,No Growth,FN,0,FN
+PM03_B07,PM03,B07,L-Methionine,nitrogen,"N-Source, amino acid",C00073,MNXM61,met__L,EX_met__L_e,+/+/+/+,5,0,Growth,No Growth,FN,0,FN
+PM03_B08,PM03,B08,L-Phenylalanine,nitrogen,"N-Source, amino acid",C00079,MNXM97,phe__L,EX_phe__L_e,+/+/w/w,5,0,Growth,No Growth,FN,0,FN
+PM03_B09,PM03,B09,L-Proline,nitrogen,"N-Source, amino acid",C00148,MNXM114,pro__L,EX_pro__L_e,+/+/+/+,5,0.4630028326513101,Growth,Growth,TP,0.4630028326513101,TP
+PM03_B10,PM03,B10,L-Serine,nitrogen,"N-Source, amino acid",C00065,MNXM53,ser__L,EX_ser__L_e,+/+/+/+,5,0.4630028326734591,Growth,Growth,TP,0.4630028326734591,TP
+PM03_B11,PM03,B11,L-Threonine,nitrogen,"N-Source, amino acid",C00188,MNXM142,thr__L,EX_thr__L_e,+/+/+/+,5,0.46300283265132985,Growth,Growth,TP,0.46300283265132985,TP
+PM03_B12,PM03,B12,L-Tryptophan,nitrogen,"N-Source, amino acid",C00078,MNXM94,trp__L,EX_trp__L_e,+/+/+/+,5,0.46545283394216574,Growth,Growth,TP,0.46545283394216574,TP
+PM03_C01,PM03,C01,L-Tyrosine,nitrogen,"N-Source, amino acid",C00082,MNXM76,tyr__L,EX_tyr__L_e,w/+/w/+,5,0.4097937558903418,Growth,Growth,TP,0.4097937558903418,TP
+PM03_C02,PM03,C02,L-Valine,nitrogen,"N-Source, amino acid",C00183,MNXM199,val__L,EX_val__L_e,w/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM03_C03,PM03,C03,D-Alanine,nitrogen,"N-Source, amino acid",C00133,MNXM156,ala__D,EX_ala__D_e,+/+/+/+,5,0.46300283265133646,Growth,Growth,TP,0.46300283265133646,TP
+PM03_C04,PM03,C04,D-Asparagine,nitrogen,"N-Source, amino acid",C01905,MNXM7235,asn__D,EX_asn__D_e,+/+/+/+,5,0,Growth,No Growth,FN,0,FN
+PM03_C05,PM03,C05,D-Aspartic acid,nitrogen,"N-Source, amino acid",C00402,MNXM974,asp__D,EX_asp__D_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM03_C06,PM03,C06,D-Glutamic acid,nitrogen,"N-Source, amino acid",C00217,MNXM331,glu__D,EX_glu__D_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM03_C07,PM03,C07,D-Lysine,nitrogen,"N-Source, amino acid",C00739,MNXM975,lys__D,EX_lys__D_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM03_C08,PM03,C08,D-Serine,nitrogen,"N-Source, amino acid",C00740,MNXM694,ser__D,EX_ser__D_e,+/+/+/+,5,0.4630028326513462,Growth,Growth,TP,0.4630028326513462,TP
+PM03_C09,PM03,C09,D-Valine,nitrogen,"N-Source, amino acid",C06417,MNXM8512,val__D,EX_val__D_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM03_C10,PM03,C10,L-Citrulline,nitrogen,"N-Source, amino acid",C00327,MNXM211,citr__L,EX_citr__L_e,w/+/+/w,5,0,Growth,No Growth,FN,0,FN
+PM03_C11,PM03,C11,L-Homoserine,nitrogen,"N-Source, amino acid",C00263,MNXM353,hom__L,EX_hom__L_e,w/w/+/+,5,0,Growth,No Growth,FN,0,FN
+PM03_C12,PM03,C12,L-Ornithine,nitrogen,"N-Source, amino acid",C00077,MNXM89689,orn__L,EX_orn__L_e,+/+/+/+,5,#,Growth,#,#,#,#
+PM03_D01,PM03,D01,N-Acetyl-L-Glutamic acid,nitrogen,"N-Source, amino acid",C00624,MNXM730,acglu,EX_acglu_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM03_D04,PM03,D04,Hydroxylamine,nitrogen,"N-Source, other",C00192,MNXM433,ham,EX_ham_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM03_D05,PM03,D05,Methylamine,nitrogen,"N-Source, other",C00218,MNXM255,mma,EX_mma_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM03_D08,PM03,D08,Ethylamine,nitrogen,"N-Source, other",C00797,MNXM924,#,EX_MNXM924_e,-/-/-/-,0,#,No Growth,#,#,#,#
+PM03_D09,PM03,D09,Ethanolamine,nitrogen,"N-Source, other",C00189,MNXM218,etha,EX_etha_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM03_D11,PM03,D11,Putrescine,nitrogen,"N-Source, other",C00134,MNXM118,ptrc,EX_ptrc_e,w/+/+/+,5,0.6482714631307203,Growth,Growth,TP,0.6482714631307203,TP
+PM03_D12,PM03,D12,Agmatine,nitrogen,"N-Source, other",C00179,MNXM328,agm,EX_agm_e,+/+/+/+,5,0.6482714631303941,Growth,Growth,TP,0.6482714631303941,TP
+PM03_E01,PM03,E01,Histamine,nitrogen,"N-Source, other",C00388,MNXM635,hista,EX_hista_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM03_E02,PM03,E02,b-Phenylethylamine,nitrogen,"N-Source, other",C05332,MNXM660,peamn,EX_peamn_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM03_E03,PM03,E03,Tyramine,nitrogen,"N-Source, other",C00483,MNXM603,tym,EX_tym_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM03_E04,PM03,E04,Acetamide,nitrogen,"N-Source, other",C06244,MNXM4428,ad,EX_ad_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM03_E05,PM03,E05,Formamide,nitrogen,"N-Source, other",C00488,MNXM1231,frmd,EX_frmd_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM03_E08,PM03,E08,D-Glucosamine,nitrogen,"N-Source, other",C00329,MNXM533,gam,EX_gam_e,+/+/+/+,5,0.4630028326513135,Growth,Growth,TP,0.4630028326513135,TP
+PM03_E09,PM03,E09,D-Galactosamine,nitrogen,"N-Source, other",C02262,MNXM48446,galam,EX_galam_e,w/w/w/w,5,0.4630028326513431,Growth,Growth,TP,0.4630028326513431,TP
+PM03_E11,PM03,E11,N-Acetyl-D-Glucosamine,nitrogen,"N-Source, other",C00140,MNXM143,acgam,EX_acgam_e,+/+/+/+,5,0.4630028326513273,Growth,Growth,TP,0.4630028326513273,TP
+PM03_E12,PM03,E12,N-Acetyl-D-Galactosamine,nitrogen,"N-Source, other",C01074,MNXM164782,acgal,EX_acgal_e,+/+/+/+,5,0.8733378833405352,Growth,Growth,TP,0.8733378833405352,TP
+PM03_F01,PM03,F01,N-Acetyl-D-Mannosamine,nitrogen,"N-Source, other",C00645,MNXM2403,acmana,EX_acmana_e,+/+/+/+,5,0.46300283265132763,Growth,Growth,TP,0.46300283265132763,TP
+PM03_F02,PM03,F02,Adenine,nitrogen,"N-Source, other",C00147,MNXM168,ade,EX_ade_e,+/+/+/+,5,0.5550270464679715,Growth,Growth,TP,0.5550270464679715,TP
+PM03_F03,PM03,F03,Adenosine,nitrogen,"N-Source, other",C00212,MNXM212,adn,EX_adn_e,+/+/+/+,5,0.5550270464679153,Growth,Growth,TP,0.5550270464679153,TP
+PM03_F04,PM03,F04,Cytidine,nitrogen,"N-Source, other",C00475,MNXM338,cytd,EX_cytd_e,+/+/+/+,5,0.8676137471688682,Growth,Growth,TP,0.8676137471688682,TP
+PM03_F05,PM03,F05,Cytosine,nitrogen,"N-Source, other",C00380,MNXM761,csn,EX_csn_e,+/+/+/+,5,0.6935583236952748,Growth,Growth,TP,0.6935583236952748,TP
+PM03_F06,PM03,F06,Guanine,nitrogen,"N-Source, other",C00242,MNXM259,gua,EX_gua_e,+/w/w/w,5,0.5550270464679751,Growth,Growth,TP,0.5550270464679751,TP
+PM03_F07,PM03,F07,Guanosine,nitrogen,"N-Source, other",C00387,MNXM401,gsn,EX_gsn_e,+/+/+/+,5,0.5550270464679702,Growth,Growth,TP,0.5550270464679702,TP
+PM03_F08,PM03,F08,Thymine,nitrogen,"N-Source, other",C00178,MNXM386,thym,EX_thym_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM03_F09,PM03,F09,Thymidine,nitrogen,"N-Source, other",C00214,MNXM420,thymd,EX_thymd_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM03_F10,PM03,F10,Uracil,nitrogen,"N-Source, other",C00106,MNXM158,ura,EX_ura_e,-/-/-/-,0,0.621117992021759,No Growth,Growth,FP,0.621117992021759,FP
+PM03_F11,PM03,F11,Uridine,nitrogen,"N-Source, other",C00299,MNXM288,uri,EX_uri_e,-/-/-/-,0,0.7880421130983474,No Growth,Growth,FP,0.7880421130983474,FP
+PM03_F12,PM03,F12,Inosine,nitrogen,"N-Source, other",C00294,MNXM334,ins,EX_ins_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM03_G01,PM03,G01,Xanthine,nitrogen,"N-Source, other",C00385,MNXM174,xan,EX_xan_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM03_G02,PM03,G02,Xanthosine,nitrogen,"N-Source, other",C01762,MNXM687,xtsn,EX_xtsn_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM03_G03,PM03,G03,Uric acid,nitrogen,"N-Source, other",C00366,MNXM441,urate,EX_urate_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM03_G04,PM03,G04,Alloxan,nitrogen,"N-Source, other",C07599,MNXM15829,CE0074,EX_CE0074_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM03_G05,PM03,G05,Allantoin,nitrogen,"N-Source, other",C01551,MNXM612,alltn,EX_alltn_e,+/+/+/+,5,0.7801179201905153,Growth,Growth,TP,0.7801179201905153,TP
+PM03_G07,PM03,G07,DL-a-Amino-N-Butyric acid,nitrogen,"N-Source, other",C02261,MNXM155019,#,EX_MNXM155019_e,+/+/w/+,5,#,Growth,#,#,#,#
+PM03_G08,PM03,G08,g-Amino-N-Butyric acid,nitrogen,"N-Source, other",C00334,MNXM192,4abut,EX_4abut_e,w/w/w/-,5,0,Growth,No Growth,FN,0,FN
+PM03_G09,PM03,G09,e-Amino-N-Caproic acid,nitrogen,"N-Source, other",C02378,MNXM2339,6ax,EX_6ax_e,-/-/-/-,0,#,No Growth,#,#,#,#
+PM03_G11,PM03,G11,d-Amino-N-Valeric acid,nitrogen,"N-Source, other",C00431,MNXM792,5aptn,EX_5aptn_e,-/-/-/-,0,0,No Growth,No Growth,TN,0,TN
+PM03_G12,PM03,G12,a-Amino-N-Valeric acid,nitrogen,"N-Source, other",C01826,MNXM4024,#,EX_MNXM4024_e,w/w/-/-,0,#,No Growth,#,#,#,#
+PM03_H01,PM03,H01,Ala-Asp,nitrogen,"N-Source, peptide",C02871,MNXM92541,ala_L_asp__L,EX_ala_L_asp__L_e,+/+/+/+,5,0.7934350577833049,Growth,Growth,TP,0.7934350577833049,TP
+PM03_H02,PM03,H02,Ala-Gln,nitrogen,"N-Source, peptide",,#,ala_L_gln__L,EX_ala_L_gln__L_e,+/+/+/+,5,0.820441239212268,Growth,Growth,TP,0.820441239212268,TP
+PM03_H03,PM03,H03,Ala-Glu,nitrogen,"N-Source, peptide",,#,ala_L_gln__L,EX_ala_L_glu__L_e,+/+/+/+,5,0.8067521953761848,Growth,Growth,TP,0.8067521953761848,TP
+PM03_H04,PM03,H04,Ala-Gly,nitrogen,"N-Source, peptide",,#,ala_L_gly__L,EX_ala_L_gly__L_e,+/+/+/+,5,#,Growth,#,#,#,#
+PM03_H05,PM03,H05,Ala-His,nitrogen,"N-Source, peptide",,#,ala_L_his__L,EX_ala_L_his__L_e,+/+/+/+,5,0.475517686595048,Growth,Growth,TP,0.475517686595048,TP
+PM03_H06,PM03,H06,Ala-Leu,nitrogen,"N-Source, peptide",C05035,#,ala_L_leu__L,EX_ala_L_leu__L_e,+/+/+/+,5,0.483159990023716,Growth,Growth,TP,0.483159990023716,TP
+PM03_H07,PM03,H07,Ala-Thr,nitrogen,"N-Source, peptide",,#,ala_L_thr__L,EX_ala_L_thr__L_e,+/+/+/+,5,#,Growth,#,#,#,#
+PM03_H08,PM03,H08,Gly-Asn,nitrogen,"N-Source, peptide",,#,gly_asn__L,EX_gly_asn__L_e,+/+/+/+,5,0.8114626883401885,Growth,Growth,TP,0.8114626883401885,TP
+PM03_H09,PM03,H09,Gly-Gln,nitrogen,"N-Source, peptide",,#,gly_gln__L,EX_gly_gln__L_e,+/+/+/+,5,0.8217075208154238,Growth,Growth,TP,0.8217075208154238,TP
+PM03_H10,PM03,H10,Gly-Glu,nitrogen,"N-Source, peptide",,#,gly_glu__L,EX_gly_glu__L_e,+/+/+/+,5,0.8077499939672913,Growth,Growth,TP,0.8077499939672913,TP
+PM03_H11,PM03,H11,Gly-Met,nitrogen,"N-Source, peptide",,#,gly_met__L,EX_gly_met__L_e,+/+/+/+,5,0.46969707075300543,Growth,Growth,TP,0.46969707075300543,TP
+PM03_H12,PM03,H12,Met-Ala,nitrogen,"N-Source, peptide",,#,met_ala__L_e,EX_met_ala__L_e,+/+/+/+,5,#,Growth,#,#,#,#
+PM04_A02,PM04,A02,Phosphate,phosphate & sulphur,"P-Source, inorganic",C00009,MNXM9,pi,EX_pi_e,+/+/+/+,5,0.46300283265056985,Growth,Growth,TP,0.46300283265056985,TP
+PM04_A03,PM04,A03,Pyrophosphate,phosphate & sulphur,"P-Source, inorganic",C00013,MNXM11,ppi,EX_ppi_e,+/+/+/+,5,#,Growth,#,#,#,#
+PM04_A04,PM04,A04,Trimetaphosphate,phosphate & sulphur,"P-Source, inorganic",C02466,MNXM3570,tmp,EX_tmp_e,+/+/+/+,5,#,Growth,#,#,#,#
+PM04_A05,PM04,A05,Tripolyphosphate,phosphate & sulphur,"P-Source, inorganic",C00536,MNXM332,pppi,EX_pppi_e,+/+/+/+,5,#,Growth,#,#,#,#
+PM04_A08,PM04,A08,Adenosine 2`-Monophosphate,phosphate & sulphur,"P-Source, organic",C00946,MNXM7028,amp2p,EX_amp2p_e,+/+/+/+,5,#,Growth,#,#,#,#
+PM04_A09,PM04,A09,Adenosine 3`-Monophosphate,phosphate & sulphur,"P-Source, organic",C01367,MNXM1985,3amp,EX_3amp_e,+/+/+/+,5,0.7770378650551614,Growth,Growth,TP,0.7770378650551614,TP
+PM04_A10,PM04,A10,Adenosine 5`-Monophosphate,phosphate & sulphur,"P-Source, organic",C00020,MNXM14,amp,EX_amp_e,+/+/+/+,5,0.7770378650551686,Growth,Growth,TP,0.7770378650551686,TP
+PM04_A12,PM04,A12,"Adenosine 3`,5`-Cyclic Monophosphate",phosphate & sulphur,"P-Source, organic",C00575,MNXM243,camp,EX_camp_e,+/+/+/+,5,#,Growth,#,#,#,#
+PM04_B03,PM04,B03,DL-a-Glycerol Phosphate,phosphate & sulphur,"P-Source, organic",C00093,MNXM66,glyc3p,EX_glyc3p_e,+/+/+/+,5,0.46300283265131503,Growth,Growth,TP,0.46300283265131503,TP
+PM04_B04,PM04,B04,b-Glycerol Phosphate,phosphate & sulphur,"P-Source, organic",C02979,MNXM2527,glyc2p,EX_glyc2p_e,+/+/+/+,5,0.4630028326513133,Growth,Growth,TP,0.4630028326513133,TP
+PM04_B05,PM04,B05,Carbamyl Phosphate,phosphate & sulphur,"P-Source, organic",C00169,MNXM138,cbp,EX_cbp_e,+/+/+/+,5,#,Growth,#,#,#,#
+PM04_B06,PM04,B06,D-2-Phospho-Glyceric acid,phosphate & sulphur,"P-Source, organic",C00631,MNXM275,2pg,EX_2pg_e,+/+/+/+,5,0,Growth,No Growth,FN,0,FN
+PM04_B07,PM04,B07,D-3-Phospho-Glyceric acid,phosphate & sulphur,"P-Source, organic",C00197,MNXM126,3pg,EX_3pg_e,+/+/+/+,5,0,Growth,No Growth,FN,0,FN
+PM04_B09,PM04,B09,Guanosine 3`-Monophosphate,phosphate & sulphur,"P-Source, organic",C06193,MNXM2183,3gmp,EX_3gmp_e,+/+/+/+,5,0.7770378650551634,Growth,Growth,TP,0.7770378650551634,TP
+PM04_B10,PM04,B10,Guanosine 5`-Monophosphate,phosphate & sulphur,"P-Source, organic",C00144,MNXM113,gmp,EX_gmp_e,+/+/+/+,5,0.7770378650551688,Growth,Growth,TP,0.7770378650551688,TP
+PM04_B12,PM04,B12,"Guanosine 3`,5`-Cyclic Monophosphate",phosphate & sulphur,"P-Source, organic",C00942,MNXM665,35cgmp,EX_35cgmp_e,+/-/-/-,0,#,No Growth,#,#,#,#
+PM04_C01,PM04,C01,Phosphoenol Pyruvate,phosphate & sulphur,"P-Source, organic",C00074,MNXM73,pep,EX_pep_e,+/+/+/+,5,0,Growth,No Growth,FN,0,FN
+PM04_C02,PM04,C02,Phospho-Glycolic acid,phosphate & sulphur,"P-Source, organic",C00988,MNXM2074,2pglyc,EX_2pglyc_e,+/+/+/+,5,#,Growth,#,#,#,#
+PM04_C03,PM04,C03,D-Glucose-1-Phosphate,phosphate & sulphur,"P-Source, organic",C00103,MNXM89588,g1p,EX_g1p_e,+/+/+/+,5,0.46300283265133024,Growth,Growth,TP,0.46300283265133024,TP
+PM04_C04,PM04,C04,D-Glucose-6-Phosphate,phosphate & sulphur,"P-Source, organic",C00092,MNXM160,g6p,EX_g6p_e,w/+/+/+,5,0.4630028326513293,Growth,Growth,TP,0.4630028326513293,TP
+PM04_C05,PM04,C05,2-Deoxy-D-Glucose 6-Phosphate,phosphate & sulphur,"P-Source, organic",C06369,MNXM3809,2doxg6p,EX_2doxg6p_e,-/-/-/-,0,#,No Growth,#,#,#,#
+PM04_C06,PM04,C06,D-Glucosamine-6-Phosphate,phosphate & sulphur,"P-Source, organic",C00352,MNXM370,gam6p,EX_gam6p_e,+/+/+/-,5,0.6482039657118628,Growth,Growth,TP,0.6482039657118628,TP
+PM04_C07,PM04,C07,6-Phospho-Gluconic acid,phosphate & sulphur,"P-Source, organic",,#,6pgc,EX_6pgc_e,+/+/+/+,5,#,Growth,#,#,#,#
+PM04_C08,PM04,C08,Cytidine 2`-Monophosphate,phosphate & sulphur,"P-Source, organic",C03104,MNXM11237,#,EX_MNXM11237_e,+/+/+/+,5,#,Growth,#,#,#,#
+PM04_C10,PM04,C10,Cytidine 5`-Monophosphate,phosphate & sulphur,"P-Source, organic",C00055,MNXM31,cmp,EX_cmp_e,w/+/+/+,5,0.794006669549175,Growth,Growth,TP,0.794006669549175,TP
+PM04_C12,PM04,C12,"Cytidine 3`,5`-Cyclic Monophosphate",phosphate & sulphur,"P-Source, organic",C00941,MNXM3162,#,EX_MNXM3162_e,w/-/-/-,0,#,No Growth,#,#,#,#
+PM04_D01,PM04,D01,D-Mannose-1-Phosphate,phosphate & sulphur,"P-Source, organic",C00636,MNXM721,man1p,EX_man1p_e,+/+/+/+,5,#,Growth,#,#,#,#
+PM04_D02,PM04,D02,D-Mannose-6-Phosphate,phosphate & sulphur,"P-Source, organic",C00275,MNXM427,man6p,EX_man6p_e,+/+/+/+,5,0.46300283265132586,Growth,Growth,TP,0.46300283265132586,TP
+PM04_D04,PM04,D04,Phospho-L-Arginine,phosphate & sulphur,"P-Source, organic",C05945,MNXM3663,argp,EX_argp_e,+/+/+/+,5,#,Growth,#,#,#,#
+PM04_D05,PM04,D05,O-Phospho-D-Serine,phosphate & sulphur,"P-Source, organic",C02532,MNXM4752,pser__D,EX_pser__D_e,+/+/+/+,5,#,Growth,#,#,#,#
+PM04_D06,PM04,D06,O-Phospho-L-Serine,phosphate & sulphur,"P-Source, organic",C01005,MNXM379,pser__L,EX_pser__L_e,+/+/+/+,5,0.648203965711865,Growth,Growth,TP,0.648203965711865,TP
+PM04_D07,PM04,D07,O-Phospho-L-Threonine,phosphate & sulphur,"P-Source, organic",,#,thrp,EX_thrp_e,+/+/+/+,5,0.6482039657118737,Growth,Growth,TP,0.6482039657118737,TP
+PM04_D08,PM04,D08,Uridine 2`-Monophosphate,phosphate & sulphur,"P-Source, organic",C03031,MNXM13238,#,EX_MNXM13238_e,+/+/+/+,5,#,Growth,#,#,#,#
+PM04_D09,PM04,D09,Uridine 3`-Monophosphate,phosphate & sulphur,"P-Source, organic",C01368,MNXM2184,3ump,EX_3ump_e,+/+/+/w,5,0.7608192705010887,Growth,Growth,TP,0.7608192705010887,TP
+PM04_D10,PM04,D10,Uridine 5`-Monophosphate,phosphate & sulphur,"P-Source, organic",C00105,MNXM80,ump,EX_ump_e,w/+/+/+,5,0.760819270501076,Growth,Growth,TP,0.760819270501076,TP
+PM04_D11,PM04,D11,"Uridine 2`,3`-Cyclic Monophosphate",phosphate & sulphur,"P-Source, organic",C02355,MNXM3150,23cump,EX_23cump_e,w/+/+/+,5,0.7608192705010806,Growth,Growth,TP,0.7608192705010806,TP
+PM04_E01,PM04,E01,O-Phospho-D-Tyrosine,phosphate & sulphur,"P-Source, organic",C06501,MNXM3323,tyrp,EX_tyrp_e,+/+/+/+,5,0.6144128607578825,Growth,Growth,TP,0.6144128607578825,TP
+PM04_E02,PM04,E02,O-Phospho-L-Tyrosine,phosphate & sulphur,"P-Source, organic",C06501,MNXM3323,tyrp,EX_tyrp_e,+/+/+/+,5,0.6144128607590008,Growth,Growth,TP,0.6144128607590008,TP
+PM04_E03,PM04,E03,Phosphocreatine,phosphate & sulphur,"P-Source, organic",C02305,MNXM90130,pcreat,EX_pcreat_e,+/+/+/+,5,#,Growth,#,#,#,#
+PM04_E04,PM04,E04,Phosphoryl Choline,phosphate & sulphur,"P-Source, organic",C00588,MNXM229,cholp,EX_cholp_e,+/+/+/+,5,#,Growth,#,#,#,#
+PM04_E05,PM04,E05,O-Phosphoryl-Ethanolamine,phosphate & sulphur,"P-Source, organic",C00346,MNXM187,ethamp,EX_ethamp_e,+/+/+/+,5,#,Growth,#,#,#,#
+PM04_E06,PM04,E06,Phosphono Acetic acid,phosphate & sulphur,"P-Source, organic",C05682,MNXM3034,ppac,EX_ppac_e,w/+/w/w,5,#,Growth,#,#,#,#
+PM04_E07,PM04,E07,2-Aminoethyl Phosphonic acid,phosphate & sulphur,"P-Source, organic",C03557,MNXM1692,2ameph,EX_2ameph_e,+/+/+/+,5,#,Growth,#,#,#,#
+PM04_E10,PM04,E10,Thymidine 5`-Monophosphate,phosphate & sulphur,"P-Source, organic",C00364,MNXM257,dtmp,EX_dtmp_e,w/+/+/+,5,0.4652574576583171,Growth,Growth,TP,0.4652574576583171,TP
+PM04_E11,PM04,E11,Inositol Hexaphosphate,phosphate & sulphur,"P-Source, organic",C01204,MNXM491,ppmi1346p,EX_ppmi1346p_e,w/w/w/w,5,#,Growth,#,#,#,#
+PM04_F02,PM04,F02,Sulfate,phosphate & sulphur,"S-Source, inorganic",C00059,MNXM58,so4,EX_so4_e,+/+/+/+,5,0.4630028326513315,Growth,Growth,TP,0.4630028326513315,TP
+PM04_F03,PM04,F03,Thiosulfate,phosphate & sulphur,"S-Source, inorganic",C00320,MNXM323,tsul,EX_tsul_e,+/+/+/+,5,0.4630028326513315,Growth,Growth,TP,0.4630028326513315,TP
+PM04_F04,PM04,F04,Tetrathionate,phosphate & sulphur,"S-Source, inorganic",C02084,MNXM1781,tet,EX_tet_e,+/+/+/+,5,0.4630028326513315,Growth,Growth,TP,0.4630028326513315,TP
+PM04_F07,PM04,F07,L-Cysteine,phosphate & sulphur,"S-Source, organic",C00097,MNXM55,cys__L,EX_cys__L_e,+/+/+/+,5,0.48615297428389426,Growth,Growth,TP,0.48615297428389426,TP
+PM04_F08,PM04,F08,D-Cysteine,phosphate & sulphur,"S-Source, organic",C00793,MNXM2112,cys__D,EX_cys__D_e,+/+/+/+,5,0.48615297428390275,Growth,Growth,TP,0.48615297428390275,TP
+PM04_F09,PM04,F09,Cys-Gly,phosphate & sulphur,"S-Source, organic",,#,cys_gly__L,EX_cys_gly__L_e,+/+/+/+,5,#,Growth,#,#,#,#
+PM04_F10,PM04,F10,L-Cysteic acid,phosphate & sulphur,"S-Source, organic",C00506,MNXM713,Lcyst,EX_Lcyst_e,+/+/+/+,5,#,Growth,#,#,#,#
+PM04_F11,PM04,F11,Cysteamine,phosphate & sulphur,"S-Source, organic",C01678,MNXM1226,cysam,EX_cysam_e,w/w/w/w,5,#,Growth,#,#,#,#
+PM04_F12,PM04,F12,L-Cysteine Sulfinic acid,phosphate & sulphur,"S-Source, organic",C00606,MNXM498,3sala,EX_3sala_e,w/+/+/+,5,#,Growth,#,#,#,#
+PM04_G01,PM04,G01,N-Acetyl-L-Cysteine,phosphate & sulphur,"S-Source, organic",C06809,MNXM98606,CE1310,EX_CE1310_e,w/+/w/w,5,#,Growth,#,#,#,#
+PM04_G03,PM04,G03,Cystathionine,phosphate & sulphur,"S-Source, organic",C00542,MNXM7231,cyst__L,EX_cyst__L_e,+/+/+/+,5,#,Growth,#,#,#,#
+PM04_G04,PM04,G04,Lanthionine,phosphate & sulphur,"S-Source, organic",,#,lanth,EX_lanth_e,+/+/+/+,5,#,Growth,#,#,#,#
+PM04_G05,PM04,G05,Glutathione,phosphate & sulphur,"S-Source, organic",C00051,MNXM57,gthrd,EX_gthrd_e,+/+/+/+,5,0.532453257549036,Growth,Growth,TP,0.532453257549036,TP
+PM04_G06,PM04,G06,DL-Ethionine,phosphate & sulphur,"S-Source, organic",C11227,MNXM17589,#,EX_MNXM17589_e,-/w/w/w,5,#,Growth,#,#,#,#
+PM04_G07,PM04,G07,L-Methionine,phosphate & sulphur,"S-Source, organic",C00073,MNXM61,met__L,EX_met__L_e,w/+/+/+,5,0,Growth,No Growth,FN,0,FN
+PM04_G08,PM04,G08,D-Methionine,phosphate & sulphur,"S-Source, organic",C00855,MNXM1275,met__D,EX_met__D_e,w/+/+/+,5,0,Growth,No Growth,FN,0,FN
+PM04_G09,PM04,G09,Gly-Met,phosphate & sulphur,"S-Source, organic",,#,gly_met__L,EX_gly_met__L_e,w/+/+/+,5,0,Growth,No Growth,FN,0,FN
+PM04_G10,PM04,G10,"N-Acetyl-D,L-Methionine",phosphate & sulphur,"S-Source, organic",C02712,MNXM7576,C02712,EX_C02712_e,w/+/+/+,5,#,Growth,#,#,#,#
+PM04_G11,PM04,G11,L-Methionine Sulfoxide,phosphate & sulphur,"S-Source, organic",C02989,MNXM2246,metsox_S__L,EX_metsox_S__L_e,w/+/+/+,5,0,Growth,No Growth,FN,0,FN
+PM04_H01,PM04,H01,L-Djenkolic acid,phosphate & sulphur,"S-Source, organic",C08275,MNXM11409,djenk,EX_djenk_e,+/+/+/+,5,#,Growth,#,#,#,#
+PM04_H04,PM04,H04,DL-Lipoamide,phosphate & sulphur,"S-Source, organic",C00248,MNXM1024,lpam,EX_lpam_e,w/+/w/+,5,#,Growth,#,#,#,#
+PM04_H05,PM04,H05,Taurocholic acid,phosphate & sulphur,"S-Source, organic",C05122,MNXM2288,tchola,EX_tchola_e,w/w/w/+,5,#,Growth,#,#,#,#
+PM04_H06,PM04,H06,Taurine,phosphate & sulphur,"S-Source, organic",C00245,MNXM282,taur,EX_taur_e,+/+/+/+,5,0.4630028326513263,Growth,Growth,TP,0.4630028326513263,TP
+PM04_H07,PM04,H07,Hypotaurine,phosphate & sulphur,"S-Source, organic",C00519,MNXM726,hyptaur,EX_hyptaur_e,+/+/+/+,5,#,Growth,#,#,#,#
+PM04_H08,PM04,H08,p-Aminobenzene Sulfonic acid,phosphate & sulphur,"S-Source, organic",C00568,MNXM421,4abz,EX_4abz_e,w/w/w/+,5,0,Growth,No Growth,FN,0,FN
+PM04_H09,PM04,H09,Butane Sulfonic acid,phosphate & sulphur,"S-Source, organic",,#,butso3,EX_butso3_e,+/+/+/+,5,0.4630028326513267,Growth,Growth,TP,0.4630028326513267,TP
+PM04_H10,PM04,H10,2-Hydroxyethane Sulfonic acid,phosphate & sulphur,"S-Source, organic",C05123,MNXM1630,istnt,EX_istnt_e,+/+/+/+,5,#,Growth,#,#,#,#
+PM04_H11,PM04,H11,Methane Sulfonic acid,phosphate & sulphur,"S-Source, organic",C11145,MNXM1485,mso3,EX_mso3_e,+/+/+/+,5,0.4630028326513269,Growth,Growth,TP,0.4630028326513269,TP

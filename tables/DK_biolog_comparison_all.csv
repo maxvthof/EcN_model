@@ -16,7 +16,7 @@ PM01_B02,PM01,B02,D-Sorbitol,carbon,"C-Source, carbohydrate",EX_sbt__D_e,8.33333
 PM01_B03,PM01,B03,Glycerol,carbon,"C-Source, carbohydrate",EX_glyc_e,7.66666666667,1,+/+/+/+,1.0,1,0
 PM01_B04,PM01,B04,L-Fucose,carbon,"C-Source, carbohydrate",EX_fuc__L_e,7.66666666667,1,+/+/+/+,1.0,1,0
 PM01_B05,PM01,B05,D-Glucuronic acid,carbon,"C-Source, carboxylic acid",EX_glcur_e,9.0,1,+/+/+/+,1.0,1,0
-PM01_B06,PM01,B06,D-Gluconic acid,carbon,"C-Source, carboxylic acid",EX_glcn___e,9.0,1,+/+/+/+,1.0,1,0
+PM01_B06,PM01,B06,D-Gluconic acid,carbon,"C-Source, carboxylic acid",EX_glcn_e,9.0,1,+/+/+/+,1.0,1,0
 PM01_B07,PM01,B07,DL-a-Glycerol Phosphate,carbon,"C-Source, carbohydrate",EX_glyc3p_e,7.66666666667,1,+/+/+/+,1.0,1,0
 PM01_B08,PM01,B08,D-Xylose,carbon,"C-Source, carbohydrate",EX_xyl__D_e,8.66666666667,1,+/+/+/+,1.0,1,0
 PM01_B09,PM01,B09,L-Lactic acid,carbon,"C-Source, carboxylic acid",EX_lac__L_e,8.0,1,+/+/+/+,1.0,1,0

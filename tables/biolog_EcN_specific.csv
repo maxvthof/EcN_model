@@ -4,18 +4,18 @@ PM01_D05,PM01,D05,Tween 40,carbon,"C-Source, fatty acid",,3.66666666667,1,#,MNXM
 PM01_E09,PM01,E09,Adonitol,carbon,"C-Source, carbohydrate",C00474,5.0,1,MNXM1820,rbt,EX_rbt_e,0,Growth,No Growth,FN,PM1,E09,adonitol,N,N,0,1,1
 PM01_H05,PM01,H05,D-Psicose,carbon,"C-Source, carbohydrate",C06468,4.0,1,MNXM8509,#,EX_MNXM8509_e,#,Growth,#,#,PM1,H05,D-psicose,N,N,0,1,1
 PM02_A12,PM02,A12,Pectin,carbon,"C-Source, polymer",C00714,6.0,1,MNXM107600,pectin,EX_pectin_e,0,Growth,No Growth,FN,PM2,A12,pectin,N,N,0,1,1
-PM02_B01,PM02,B01,N-Acetyl-D-Galactosamine,carbon,"C-Source, carbohydrate",C01074,8.0,1,MNXM164782,acgal,EX_acgal_e,0.9927726153601779,Growth,Growth,TP,PM2,B01,N-acetyl-D-galactosamine,N,N,0,1,1
+PM02_B01,PM02,B01,N-Acetyl-D-Galactosamine,carbon,"C-Source, carbohydrate",C01074,8.0,1,MNXM164782,acgal,EX_acgal_e,0.9927726153601784,Growth,Growth,TP,PM2,B01,N-acetyl-D-galactosamine,N,N,0,1,1
 PM02_B05,PM02,B05,D-Arabinose,carbon,"C-Source, carbohydrate",C00216,4.0,1,MNXM544,arab__D,EX_arab__D_e,0,Growth,No Growth,FN,PM2,B05,D-arabinose,N,N,0,1,1
-PM02_B09,PM02,B09,2-Deoxy-D-Ribose,carbon,"C-Source, carbohydrate",C01801,7.33333333333,1,MNXM90412,drib,EX_drib_e,0.46300283265090547,Growth,Growth,TP,PM2,B09,2-deoxy-D-ribose,N,N,0,1,1
+PM02_B09,PM02,B09,2-Deoxy-D-Ribose,carbon,"C-Source, carbohydrate",C01801,7.33333333333,1,MNXM90412,drib,EX_drib_e,0.4630028326513231,Growth,Growth,TP,PM2,B09,2-deoxy-D-ribose,N,N,0,1,1
 PM02_C03,PM02,C03,D-Lactitol,carbon,"C-Source, carbohydrate",,7.0,1,#,#,#,#,Growth,#,#,PM2,C03,lactitol,N,N,0,1,1
 PM02_D01,PM02,D01,D-Raffinose,carbon,"C-Source, carbohydrate",C00492,7.0,1,MNXM621,raffin,EX_raffin_e,0,Growth,No Growth,FN,PM2,D01,D-raffinose,N,N,0,1,1
-PM02_D04,PM02,D04,L-Sorbose,carbon,"C-Source, carbohydrate",C00247,7.0,1,MNXM588,srb__L,EX_srb__L_e,0.4630028326513321,Growth,Growth,TP,PM2,D04,L-sorbose,N,N,0,1,1
+PM02_D04,PM02,D04,L-Sorbose,carbon,"C-Source, carbohydrate",C00247,7.0,1,MNXM588,srb__L,EX_srb__L_e,0.46300283265151404,Growth,Growth,TP,PM2,D04,L-sorbose,N,N,0,1,1
 PM02_D06,PM02,D06,D-Tagatose,carbon,"C-Source, carbohydrate",C00795,7.33333333333,1,MNXM92401,tag__D,EX_tag__D_e,0,Growth,No Growth,FN,PM2,D06,D-tagatose,N,N,0,1,1
 PM02_E09,PM02,E09,g-Hydroxybutyric acid,carbon,"C-Source, carboxylic acid",C00989,7.0,1,MNXM514,ghb,EX_ghb_e,#,Growth,#,#,PM2,E09,γ-hydroxy butyric acid,N,N,0,1,1
 PM03_A06,PM03,A06,Biuret,nitrogen,"N-Source, other",C06555,5.0,1,MNXM1545,#,EX_MNXM1545_e,#,Growth,#,#,PM3,A06,biuret,N,N,0,1,1
 PM03_C02,PM03,C02,L-Valine,nitrogen,"N-Source, amino acid",C00183,4.0,1,MNXM199,val__L,EX_val__L_e,0,Growth,No Growth,FN,PM3,C02,L-valine,N,N,0,1,1
 PM03_D02,PM03,D02,N-Phthaloyl-L-Glutamic acid,nitrogen,"N-Source, amino acid",,6.0,1,#,#,#,#,Growth,#,#,PM3,D02,N-phthaloyl-L-glutamic acid,N,N,0,1,1
-PM03_F02,PM03,F02,Adenine,nitrogen,"N-Source, other",C00147,6.66666666667,1,MNXM168,ade,EX_ade_e,0.5550270464679768,Growth,Growth,TP,PM3,F02,adenine,N,N,0,1,1
+PM03_F02,PM03,F02,Adenine,nitrogen,"N-Source, other",C00147,6.66666666667,1,MNXM168,ade,EX_ade_e,0.5550270464686609,Growth,Growth,TP,PM3,F02,adenine,N,N,0,1,1
 PM03_G10,PM03,G10,DL-a-Amino-Caprylic acid,nitrogen,"N-Source, other",,5.0,1,#,#,#,#,Growth,#,#,PM3,G10,"D,L-alpha-amino-caprylic acid",N,N,0,1,1
 PM03_G12,PM03,G12,a-Amino-N-Valeric acid,nitrogen,"N-Source, other",C01826,6.33333333333,1,MNXM4024,#,EX_MNXM4024_e,#,Growth,#,#,PM3,G12,alpha-amino-N-valeric acid,N,N,0,1,1
 PM04_A07,PM04,A07,Hypophosphite,phosphate & sulphur,"P-Source, inorganic",,4.0,1,#,#,#,#,Growth,#,#,PM4,A07,hypophosphate,N,N,0,1,1

@@ -16,7 +16,7 @@ PM01_B02,PM01,B02,D-Sorbitol,carbon,"C-Source, carbohydrate",C00794,MNXM469,sbt_
 PM01_B03,PM01,B03,Glycerol,carbon,"C-Source, carbohydrate",C00116,MNXM89612,glyc,EX_glyc_e
 PM01_B04,PM01,B04,L-Fucose,carbon,"C-Source, carbohydrate",C01019,MNXM659,fuc__L_e,EX_fuc__L_e
 PM01_B05,PM01,B05,D-Glucuronic acid,carbon,"C-Source, carboxylic acid",C00191,MNXM241,glcur,EX_glcur_e
-PM01_B06,PM01,B06,D-Gluconic acid,carbon,"C-Source, carboxylic acid",C00257,MNXM341,glcn__D,EX_glcn___e
+PM01_B06,PM01,B06,D-Gluconic acid,carbon,"C-Source, carboxylic acid",C00257,MNXM341,glcn__D,EX_glcn_e
 PM01_B07,PM01,B07,DL-a-Glycerol Phosphate,carbon,"C-Source, carbohydrate",C00093,MNXM66,glyc3p,EX_glyc3p_e
 PM01_B08,PM01,B08,D-Xylose,carbon,"C-Source, carbohydrate",C00181,MNXM348,xyl__D,EX_xyl__D_e
 PM01_B09,PM01,B09,L-Lactic acid,carbon,"C-Source, carboxylic acid",C01432,MNXM3041,lac__L,EX_lac__L_e
