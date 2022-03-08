@@ -105340,7 +105340,7 @@
 "nad_c":-1,
 "nadh_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_20990",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -105386,7 +105386,7 @@
 "ichor_c":-1,
 "pyr_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_20985",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -124212,7 +124212,7 @@
 "ser__L_c":-1,
 "seramp_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_20935 or CIW80_03435",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -130016,7 +130016,7 @@
 "h_c":1,
 "pi_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_20955 and CIW80_20970 and CIW80_20960 and CIW80_20950",
 "subsystem":"Inorganic Ion Transport and Metabolism",
@@ -133503,7 +133503,7 @@
 "h_c":1,
 "h_p":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_20920 and (CIW80_25200 and CIW80_09420 and CIW80_09425)",
 "subsystem":"Inorganic Ion Transport and Metabolism",
@@ -134248,7 +134248,7 @@
 "metabolites":{
 "feenter_e":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange",
@@ -135775,7 +135775,7 @@
 "h2o_c":-3.0,
 "h_c":3.0
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_20925",
 "subsystem":"Inorganic Ion Transport and Metabolism",
@@ -135982,7 +135982,7 @@
 "h_c":1,
 "h_p":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Inorganic Ion Transport and Metabolism",
@@ -136077,7 +136077,7 @@
 "h_c":1,
 "h_p":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Inorganic Ion Transport and Metabolism",
@@ -136639,7 +136639,7 @@
 "h_c":1,
 "h_p":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_20965",
 "subsystem":"Inorganic Ion Transport and Metabolism",
@@ -136842,7 +136842,7 @@
 "h_c":1,
 "h_p":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_09625",
 "subsystem":"Inorganic Ion Transport and Metabolism",
@@ -138534,7 +138534,7 @@
 "feenter_c":-2.0,
 "h_c":2.0
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_23540",
 "subsystem":"Inorganic Ion Transport and Metabolism",
@@ -138769,7 +138769,7 @@
 "rbflvrd_c":-1,
 "ribflv_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_23540",
 "subsystem":"Inorganic Ion Transport and Metabolism",
@@ -141263,7 +141263,7 @@
 "fe2_c":2.0,
 "h_c":2.0
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Inorganic Ion Transport and Metabolism",
@@ -141296,7 +141296,7 @@
 "fmnh2_c":-1,
 "h_c":2.0
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Inorganic Ion Transport and Metabolism",
@@ -141637,7 +141637,7 @@
 "rbflvrd_c":-1,
 "ribflv_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Inorganic Ion Transport and Metabolism",
@@ -141667,7 +141667,7 @@
 "arbtn_fe3_e":1,
 "fe3_e":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"s0001",
 "subsystem":"Inorganic Ion Transport and Metabolism",
@@ -142114,7 +142114,7 @@
 "fmnh2_c":-1,
 "h_c":2.0
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_23540",
 "subsystem":"Inorganic Ion Transport and Metabolism",
@@ -142258,7 +142258,7 @@
 "fe3_e":-1,
 "feenter_e":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"s0001",
 "subsystem":"Inorganic Ion Transport and Metabolism",
@@ -146659,7 +146659,7 @@
 "h_c":1,
 "h_p":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Inorganic Ion Transport and Metabolism",
@@ -146724,7 +146724,7 @@
 "metabolites":{
 "enter_e":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange",
@@ -155638,7 +155638,7 @@
 "h_c":1,
 "pi_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_18520 and CIW80_18530 and CIW80_18525",
 "subsystem":"Inorganic Ion Transport and Metabolism",
@@ -169526,7 +169526,7 @@
 "h_c":-1,
 "ppi_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_20980",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -190209,7 +190209,7 @@
 "h_c":1,
 "pi_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_20950 and CIW80_20955 and CIW80_20960 and CIW80_20970",
 "subsystem":"Inorganic Ion Transport and Metabolism",
@@ -190239,7 +190239,7 @@
 "nadp_c":1,
 "nadph_c":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_09840",
 "subsystem":"Inorganic Ion Transport and Metabolism",
@@ -190966,7 +190966,7 @@
 "feenter_c":-1,
 "h2o_c":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_20925",
 "subsystem":"Inorganic Ion Transport and Metabolism",
@@ -191031,7 +191031,7 @@
 "nadp_c":1,
 "nadph_c":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_23540",
 "subsystem":"Inorganic Ion Transport and Metabolism",
@@ -197397,7 +197397,7 @@
 "pyr_c":1,
 "salc_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03245",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -197423,10 +197423,13 @@
 "MNXR104269"
 ],
 "pubmed":[
-11927258.0
+"11927258.0"
 ],
 "rhea":[
-"27875"
+"27875",
+"27876",
+"27877",
+"27874"
 ],
 "sabiork":[
 "6177"
@@ -197569,7 +197572,7 @@
 "salchs4fe_e":-1,
 "salchs4fe_p":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"(CIW80_20920 or CIW80_04590) and (CIW80_25200 and CIW80_09420 and CIW80_09425)",
 "subsystem":"Inorganic Ion Transport and Metabolism",
@@ -201675,7 +201678,7 @@
 "h2o_c":-3.0,
 "h_c":3.0
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_20925",
 "subsystem":"Inorganic Ion Transport and Metabolism",
@@ -201740,7 +201743,7 @@
 "h_c":1,
 "pi_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_20970 and CIW80_20950 and CIW80_20960 and CIW80_20955",
 "subsystem":"Inorganic Ion Transport and Metabolism",
@@ -201774,7 +201777,7 @@
 "salchs4fe_c":1,
 "salchs4fe_p":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_20970 and CIW80_20950 and CIW80_20960 and CIW80_20955",
 "subsystem":"Inorganic Ion Transport and Metabolism",
@@ -201805,7 +201808,7 @@
 "salchs2fe_c":1,
 "salchs2fe_p":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_20970 and CIW80_20950 and CIW80_20960 and CIW80_20955",
 "subsystem":"Inorganic Ion Transport and Metabolism",
@@ -202345,7 +202348,7 @@
 "salchs2fe_e":-1,
 "salchs2fe_p":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_23530",
 "subsystem":"Inorganic Ion Transport and Metabolism",
@@ -202376,7 +202379,7 @@
 "salchs4_c":-1,
 "salchs4_p":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_23545",
 "subsystem":"Inorganic Ion Transport and Metabolism",
@@ -202407,7 +202410,7 @@
 "h_c":1,
 "pi_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_23545",
 "subsystem":"Inorganic Ion Transport and Metabolism",
@@ -202436,7 +202439,7 @@
 "udp_c":1,
 "udpg_c":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_23550",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -202468,7 +202471,7 @@
 "udp_c":1,
 "udpg_c":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_23550",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -203935,7 +203938,7 @@
 "salchs2_e":-1,
 "salchs2fe_e":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_17680",
 "subsystem":"Inorganic Ion Transport and Metabolism",
@@ -203962,7 +203965,7 @@
 "salchs4_e":-1,
 "salchs4fe_e":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_17680",
 "subsystem":"Inorganic Ion Transport and Metabolism",
@@ -205017,9 +205020,7 @@
 "subsystem":"Extracellular exchange",
 "annotation":{
 "bigg.reaction":"EX_salchsx_e",
-"metanetx.reaction":[
-"MNXR104262"
-],
+"metanetx.reaction":"MNXR104262",
 "sbo":"SBO:0000627"
 }
 },
@@ -208300,7 +208301,7 @@
 "holoArCPentB_c":1,
 "pap_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_20985 and CIW80_20915",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -208326,7 +208327,7 @@
 "holoPCPentF_c":1,
 "pap_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_20935 and CIW80_20915",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -208352,7 +208353,7 @@
 "holoArCPentB_c":-1,
 "pan4p_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_20135",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -208384,7 +208385,7 @@
 "holoPCPentF_c":-1,
 "pan4p_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_20135",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -208416,7 +208417,7 @@
 "h_c":1,
 "holoArCPentB_c":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_20985",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -208442,7 +208443,7 @@
 "serPCPentF_c":1,
 "seramp_c":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_20935",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -208465,7 +208466,7 @@
 "holoArCPentB_c":1,
 "serPCPentF_c":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_20985 and CIW80_20935",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -208486,7 +208487,7 @@
 "enter_c":1,
 "holoPCPentF_c":3.0
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_20935",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -208512,7 +208513,7 @@
 "udp_c":1,
 "udpg_c":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_23550",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -208543,7 +208544,7 @@
 "salchs4_e":1,
 "salchs4_p":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_09625",
 "subsystem":"Inorganic Ion Transport and Metabolism",
@@ -208564,7 +208565,7 @@
 "salchs4_c":2.0,
 "salchs4fe_c":-2.0
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_23540",
 "subsystem":"Inorganic Ion Transport and Metabolism",
@@ -208585,7 +208586,7 @@
 "salchs4_c":2.0,
 "salchs4fe_c":-2.0
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_23540",
 "subsystem":"Inorganic Ion Transport and Metabolism",
@@ -208606,7 +208607,7 @@
 "salchs4_c":2.0,
 "salchs4fe_c":-2.0
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_23540",
 "subsystem":"Inorganic Ion Transport and Metabolism",
@@ -208624,7 +208625,7 @@
 "salchs2_p":1,
 "salchs4_p":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_23535",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -208642,7 +208643,7 @@
 "salchs2fe_p":1,
 "salchs4fe_p":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_23535",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -208661,7 +208662,7 @@
 "salchs2_e":1,
 "salchs2_p":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Inorganic Ion Transport and Metabolism",
@@ -208682,7 +208683,7 @@
 "salchs2_c":2.0,
 "salchs2fe_c":-2.0
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_23540",
 "subsystem":"Inorganic Ion Transport and Metabolism",
@@ -208703,7 +208704,7 @@
 "salchs2_c":2.0,
 "salchs2fe_c":-2.0
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_23540",
 "subsystem":"Inorganic Ion Transport and Metabolism",
@@ -208724,7 +208725,7 @@
 "salchs2_c":2.0,
 "salchs2fe_c":-2.0
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_23540",
 "subsystem":"Inorganic Ion Transport and Metabolism",
@@ -208743,7 +208744,7 @@
 "salchs2_c":-1,
 "salchsx_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_23540",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -208762,7 +208763,7 @@
 "salchs1_c":-1,
 "salchsx_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_23540",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -208801,7 +208802,7 @@
 "nadph_c":-1,
 "o2_c":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_08745",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -208835,7 +208836,7 @@
 "n6acn6hlys_c":1,
 "n6hlys_c":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_08735",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -208871,7 +208872,7 @@
 "n6acn6hlys_c":-1,
 "ppi_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_08730",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -208907,7 +208908,7 @@
 "n6acn6hlys_c":-1,
 "ppi_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_08740",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -208942,7 +208943,7 @@
 "holoACPirp1_c":1,
 "pap_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03275 and CIW80_03485",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -208954,7 +208955,7 @@
 "2.7.8.7"
 ],
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -208968,7 +208969,7 @@
 "holoArCPirp2_c":1,
 "pap_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03270 and CIW80_03485",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -208980,7 +208981,7 @@
 "2.7.8.7"
 ],
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -208994,7 +208995,7 @@
 "holoPCP1irp2_c":1,
 "pap_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03270 and CIW80_03485",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -209006,7 +209007,7 @@
 "2.7.8.7"
 ],
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -209020,7 +209021,7 @@
 "holoPCP2irp2_c":1,
 "pap_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03270 and CIW80_03485",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -209032,7 +209033,7 @@
 "2.7.8.7"
 ],
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -209046,7 +209047,7 @@
 "holoPCP3irp1_c":1,
 "pap_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03275 and CIW80_03485",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -209058,7 +209059,7 @@
 "2.7.8.7"
 ],
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -209072,7 +209073,7 @@
 "holoACPirp1_c":-1,
 "pan4p_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_20135",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -209084,7 +209085,7 @@
 "3.1.4.14"
 ],
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -209098,7 +209099,7 @@
 "holoArCPirp2_c":-1,
 "pan4p_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_20135",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -209110,7 +209111,7 @@
 "3.1.4.14"
 ],
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -209124,7 +209125,7 @@
 "holoPCP1irp2_c":-1,
 "pan4p_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_20135",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -209136,7 +209137,7 @@
 "3.1.4.14"
 ],
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -209150,7 +209151,7 @@
 "holoPCP2irp2_c":-1,
 "pan4p_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_20135",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -209162,7 +209163,7 @@
 "3.1.4.14"
 ],
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -209176,7 +209177,7 @@
 "holoPCP3irp1_c":-1,
 "pan4p_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_20135",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -209188,7 +209189,7 @@
 "3.1.4.14"
 ],
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -209202,7 +209203,7 @@
 "salamp_c":1,
 "salc_c":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03290",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -209217,7 +209218,7 @@
 "MNXR116709"
 ],
 "pubmed":[
-11927258.0
+"11927258.0"
 ],
 "rhea":[
 "46705"
@@ -209237,7 +209238,7 @@
 "h_c":-1,
 "ppi_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03270 or CIW80_03425 or CIW80_03420",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -209252,7 +209253,7 @@
 "MNXR116711"
 ],
 "pubmed":[
-11927258.0
+"11927258.0"
 ],
 "seed.reaction":[
 "rxn21408"
@@ -209269,7 +209270,7 @@
 "salArCPirp2_c":1,
 "salamp_c":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03270",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -209278,7 +209279,7 @@
 "6.2.1.61"
 ],
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -209292,13 +209293,13 @@
 "h_c":1,
 "holoPCP1irp2_c":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03270",
 "subsystem":"Secondary metabolite biosynthesis",
 "annotation":{
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -209312,13 +209313,13 @@
 "salArCPirp2_c":-1,
 "salcysPCP1irp2_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03270",
 "subsystem":"Secondary metabolite biosynthesis",
 "annotation":{
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -209330,13 +209331,13 @@
 "hptPCP1irp2_c":1,
 "salcysPCP1irp2_c":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03270",
 "subsystem":"Secondary metabolite biosynthesis",
 "annotation":{
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -209350,13 +209351,13 @@
 "h_c":1,
 "holoPCP2irp2_c":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03270",
 "subsystem":"Secondary metabolite biosynthesis",
 "annotation":{
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -209370,13 +209371,13 @@
 "hptPCP1irp2_c":-1,
 "hptcysPCP2irp2_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03270",
 "subsystem":"Secondary metabolite biosynthesis",
 "annotation":{
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -209388,13 +209389,13 @@
 "hptcysPCP2irp2_c":-1,
 "hpttPCP2irp2_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03270",
 "subsystem":"Secondary metabolite biosynthesis",
 "annotation":{
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -209407,13 +209408,13 @@
 "malACPirp1_c":1,
 "malcoa_c":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03275",
 "subsystem":"Secondary metabolite biosynthesis",
 "annotation":{
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -209426,13 +209427,13 @@
 "hpttKSirp1_c":1,
 "hpttPCP2irp2_c":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03275 and CIW80_03270",
 "subsystem":"Secondary metabolite biosynthesis",
 "annotation":{
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -209447,13 +209448,13 @@
 "hpttmalACPirp1_c":1,
 "malACPirp1_c":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03275",
 "subsystem":"Secondary metabolite biosynthesis",
 "annotation":{
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -209467,13 +209468,13 @@
 "hpttmalACPirp1_c":-1,
 "ybt1ACPirp1_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03275",
 "subsystem":"Secondary metabolite biosynthesis",
 "annotation":{
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -209487,13 +209488,13 @@
 "h_c":1,
 "holoPCP3irp1_c":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03275",
 "subsystem":"Secondary metabolite biosynthesis",
 "annotation":{
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -209507,13 +209508,13 @@
 "ybt1ACPirp1_c":-1,
 "ybt2PCP3irp1_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03275",
 "subsystem":"Secondary metabolite biosynthesis",
 "annotation":{
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -209525,13 +209526,13 @@
 "ybt2PCP3irp1_c":-1,
 "ybt3PCP3irp1_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03275",
 "subsystem":"Secondary metabolite biosynthesis",
 "annotation":{
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -209545,13 +209546,13 @@
 "ybt3PCP3irp1_c":-1,
 "ybt4PCP3irp1_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03275",
 "subsystem":"Secondary metabolite biosynthesis",
 "annotation":{
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -209564,13 +209565,13 @@
 "ybt4PCP3irp1_c":-1,
 "ybt5PCP3irp1_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03280",
 "subsystem":"Secondary metabolite biosynthesis",
 "annotation":{
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -209583,7 +209584,7 @@
 "ybt5PCP3irp1_c":-1,
 "ybt_TEirp1_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03275",
 "subsystem":"Secondary metabolite biosynthesis"
@@ -209597,7 +209598,7 @@
 "ybt_TEirp1_c":-1,
 "ybt_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03275",
 "subsystem":"Secondary metabolite biosynthesis"
@@ -209611,7 +209612,7 @@
 "ybt_c":-1,
 "ybt_p":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Inorganic Ion Transport and Metabolism"
@@ -209625,7 +209626,7 @@
 "ybt_e":1,
 "ybt_p":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Inorganic Ion Transport and Metabolism"
@@ -209638,7 +209639,7 @@
 "feybt_e":1,
 "ybt_e":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Inorganic Ion Transport and Metabolism"
@@ -209652,7 +209653,7 @@
 "h_c":1,
 "h_p":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Inorganic Ion Transport and Metabolism"
@@ -209669,7 +209670,7 @@
 "h_c":1,
 "pi_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Inorganic Ion Transport and Metabolism"
@@ -209682,7 +209683,7 @@
 "feybt_c":-1,
 "ybt_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Inorganic Ion Transport and Metabolism"
@@ -209695,7 +209696,7 @@
 "zn2_e":-1,
 "znybt_e":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Inorganic Ion Transport and Metabolism"
@@ -209709,7 +209710,7 @@
 "znybt_e":-1,
 "znybt_p":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Inorganic Ion Transport and Metabolism"
@@ -209726,7 +209727,7 @@
 "znybt_c":1,
 "znybt_p":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Inorganic Ion Transport and Metabolism"
@@ -209739,7 +209740,7 @@
 "zn2_c":1,
 "znybt_c":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Inorganic Ion Transport and Metabolism"
@@ -209752,7 +209753,7 @@
 "cuybt_e":1,
 "ybt_e":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Inorganic Ion Transport and Metabolism"
@@ -209766,7 +209767,7 @@
 "h_c":1,
 "h_p":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Inorganic Ion Transport and Metabolism"
@@ -209783,7 +209784,7 @@
 "h_c":1,
 "pi_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Inorganic Ion Transport and Metabolism"
@@ -209796,7 +209797,7 @@
 "cuybt_c":-1,
 "ybt_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Inorganic Ion Transport and Metabolism"
@@ -209809,7 +209810,7 @@
 "niybt_e":1,
 "ybt_e":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Inorganic Ion Transport and Metabolism"
@@ -209823,7 +209824,7 @@
 "niybt_e":-1,
 "niybt_p":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Inorganic Ion Transport and Metabolism"
@@ -209840,7 +209841,7 @@
 "niybt_p":-1,
 "pi_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Inorganic Ion Transport and Metabolism"
@@ -209853,7 +209854,7 @@
 "niybt_c":-1,
 "ybt_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Inorganic Ion Transport and Metabolism"
@@ -209864,7 +209865,7 @@
 "metabolites":{
 "ybt_e":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -209875,7 +209876,7 @@
 "metabolites":{
 "feybt_e":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -209886,7 +209887,7 @@
 "metabolites":{
 "znybt_e":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -209897,7 +209898,7 @@
 "metabolites":{
 "cuybt_e":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -209908,7 +209909,7 @@
 "metabolites":{
 "niybt_e":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -209923,7 +209924,7 @@
 "holoClbN_c":1,
 "pap_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03405 and CIW80_03485",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -209946,7 +209947,7 @@
 "holoClbB_c":1,
 "pap_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03405 and CIW80_03465",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -209969,7 +209970,7 @@
 "holoClbC_c":1,
 "pap_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03405 and CIW80_03460",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -209989,7 +209990,7 @@
 "holoClbH_c":1,
 "pap_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03405 and CIW80_03435",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210012,7 +210013,7 @@
 "holoClbI_c":1,
 "pap_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03405 and CIW80_03430",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210032,7 +210033,7 @@
 "holoClbJ_c":1,
 "pap_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03405 and CIW80_03425",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210052,7 +210053,7 @@
 "holoClbK_c":1,
 "pap_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03405 and CIW80_03420",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210072,7 +210073,7 @@
 "holoClbO_c":1,
 "pap_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03405 and CIW80_03400",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210092,7 +210093,7 @@
 "holoClbN_c":-1,
 "pan4p_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_20135",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210115,7 +210116,7 @@
 "holoClbB_c":-1,
 "pan4p_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_20135",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210138,7 +210139,7 @@
 "holoClbC_c":-1,
 "pan4p_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_20135",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210158,7 +210159,7 @@
 "holoClbH_c":-1,
 "pan4p_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_20135",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210181,7 +210182,7 @@
 "holoClbI_c":-1,
 "pan4p_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_20135",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210201,7 +210202,7 @@
 "holoClbJ_c":-1,
 "pan4p_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_20135",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210221,7 +210222,7 @@
 "holoClbK_c":-1,
 "pan4p_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_20135",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210241,7 +210242,7 @@
 "holoClbO_c":-1,
 "pan4p_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_20135",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210261,7 +210262,7 @@
 "h_c":-1,
 "ppi_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03485",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210281,7 +210282,7 @@
 "h_c":1,
 "holoClbN_c":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03485",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210301,7 +210302,7 @@
 "h_c":1,
 "tdcoa_c":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03485",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210321,7 +210322,7 @@
 "h_c":-1,
 "ppi_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03465",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210341,7 +210342,7 @@
 "h_c":1,
 "holoClbB_c":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03465",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210361,7 +210362,7 @@
 "h_c":1,
 "holoClbN_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03465 and CIW80_03485",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210385,7 +210386,7 @@
 "nadp_c":2.0,
 "nadph_c":-2.0
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03465",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210408,7 +210409,7 @@
 "holoClbC_c":-1,
 "malcoa_c":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03465 and CIW80_03460",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210428,7 +210429,7 @@
 "h_c":-1,
 "ppi_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03435",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210448,7 +210449,7 @@
 "h_c":1,
 "holoClbH_c":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03435",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210468,7 +210469,7 @@
 "h_c":1,
 "holoClbC_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03460 and CIW80_03435",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210487,7 +210488,7 @@
 "clb6ClbH_c":1,
 "h_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03435 and CIW80_03430",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210510,7 +210511,7 @@
 "holoClbI_c":-1,
 "malcoa_c":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03435 and CIW80_03430",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210530,7 +210531,7 @@
 "h_c":-1,
 "ppi_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03425",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210550,7 +210551,7 @@
 "h_c":1,
 "holoClbJ_c":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03425",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210569,7 +210570,7 @@
 "glyClbJ_c":-1,
 "holoClbI_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03425 and CIW80_03430",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210589,7 +210590,7 @@
 "h_c":1,
 "holoClbJ_c":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03425",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210610,7 +210611,7 @@
 "h_c":1,
 "holoClbJ_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03425",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210630,7 +210631,7 @@
 "h_c":1,
 "holoClbJ_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03425 and CIW80_03390",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210649,7 +210650,7 @@
 "gly_c":1,
 "h2o_c":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03415",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210669,7 +210670,7 @@
 "serClbH_c":1,
 "seramp_c":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03435",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210692,7 +210693,7 @@
 "nadh_c":1,
 "serClbH_c":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03435 and CIW80_03455",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210712,7 +210713,7 @@
 "fadh2_c":1,
 "h2o_c":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03435 and CIW80_03445",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210731,7 +210732,7 @@
 "clb13ClbG_c":1,
 "holoClbH_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03435 and CIW80_03440",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210750,7 +210751,7 @@
 "clb14ClbK_c":1,
 "holoClbK_c":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03440 and CIW80_03420",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210773,7 +210774,7 @@
 "nadp_c":-1,
 "nadph_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03425 and CIW80_03420",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210793,7 +210794,7 @@
 "h_c":1,
 "holoClbK_c":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03420",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210816,7 +210817,7 @@
 "nadp_c":-1,
 "nadph_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03420",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210835,7 +210836,7 @@
 "clb17ClbO_c":1,
 "holoClbO_c":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03440 and CIW80_03400",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210855,7 +210856,7 @@
 "co2_c":1,
 "holoClbK_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03400 and CIW80_03420",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210876,7 +210877,7 @@
 "holoClbO_c":1,
 "preclb1491_c":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03400 and CIW80_03415",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210895,7 +210896,7 @@
 "preclb1491_c":-1,
 "preclb1491_p":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03410",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210914,7 +210915,7 @@
 "preclb1491_p":-1,
 "preclbInter_p":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"CIW80_03395",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210930,7 +210931,7 @@
 "metabolites":{
 "myrasp_D_p":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Secondary metabolite biosynthesis"
@@ -210944,7 +210945,7 @@
 "preclb16a_p":1,
 "preclbInter_p":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210962,7 +210963,7 @@
 "preclb16a_p":-1,
 "preclb16b_p":1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -210982,7 +210983,7 @@
 "nh4_p":1,
 "preclb16b_p":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Secondary metabolite biosynthesis",
@@ -211001,7 +211002,7 @@
 "h_c":1,
 "h_p":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Secondary metabolite biosynthesis"
@@ -211012,7 +211013,7 @@
 "metabolites":{
 "clbtn_e":-1
 },
-"lower_bound":0.0,
+"lower_bound":0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "subsystem":"Extracellular exchange"
@@ -266899,12 +266900,12 @@
 "name":"iucC"
 },
 {
-"id":"CIW80_03275",
-"name":"irp1"
-},
-{
 "id":"CIW80_03485",
 "name":"clbN"
+},
+{
+"id":"CIW80_03275",
+"name":"irp1"
 },
 {
 "id":"CIW80_03270",
@@ -266977,7 +266978,6 @@
 ],
 "id":"CP022686.1",
 "compartments":{
-"":"",
 "c":"cytosol",
 "e":"extracellular space",
 "p":"periplasm"

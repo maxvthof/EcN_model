@@ -193254,7 +193254,7 @@
 "MNXR104269"
 ],
 "pubmed":[
-11927258.0
+"11927258.0"
 ],
 "rhea":[
 "27877"
@@ -204670,7 +204670,7 @@
 "2.7.8.7"
 ],
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -204696,7 +204696,7 @@
 "2.7.8.7"
 ],
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -204722,7 +204722,7 @@
 "2.7.8.7"
 ],
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -204748,7 +204748,7 @@
 "2.7.8.7"
 ],
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -204774,7 +204774,7 @@
 "2.7.8.7"
 ],
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -204800,7 +204800,7 @@
 "3.1.4.14"
 ],
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -204826,7 +204826,7 @@
 "3.1.4.14"
 ],
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -204852,7 +204852,7 @@
 "3.1.4.14"
 ],
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -204878,7 +204878,7 @@
 "3.1.4.14"
 ],
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -204904,7 +204904,7 @@
 "3.1.4.14"
 ],
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -204933,7 +204933,7 @@
 "MNXR116709"
 ],
 "pubmed":[
-11927258.0
+"11927258.0"
 ],
 "rhea":[
 "46705"
@@ -204968,7 +204968,7 @@
 "MNXR116711"
 ],
 "pubmed":[
-11927258.0
+"11927258.0"
 ],
 "seed.reaction":[
 "rxn21408"
@@ -204994,7 +204994,7 @@
 "6.2.1.61"
 ],
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -205014,7 +205014,7 @@
 "subsystem":"Secondary metabolite biosynthesis",
 "annotation":{
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -205034,7 +205034,7 @@
 "subsystem":"Secondary metabolite biosynthesis",
 "annotation":{
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -205052,7 +205052,7 @@
 "subsystem":"Secondary metabolite biosynthesis",
 "annotation":{
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -205072,7 +205072,7 @@
 "subsystem":"Secondary metabolite biosynthesis",
 "annotation":{
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -205092,7 +205092,7 @@
 "subsystem":"Secondary metabolite biosynthesis",
 "annotation":{
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -205110,7 +205110,7 @@
 "subsystem":"Secondary metabolite biosynthesis",
 "annotation":{
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -205129,7 +205129,7 @@
 "subsystem":"Secondary metabolite biosynthesis",
 "annotation":{
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -205148,7 +205148,7 @@
 "subsystem":"Secondary metabolite biosynthesis",
 "annotation":{
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -205169,7 +205169,7 @@
 "subsystem":"Secondary metabolite biosynthesis",
 "annotation":{
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -205189,7 +205189,7 @@
 "subsystem":"Secondary metabolite biosynthesis",
 "annotation":{
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -205209,7 +205209,7 @@
 "subsystem":"Secondary metabolite biosynthesis",
 "annotation":{
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -205229,7 +205229,7 @@
 "subsystem":"Secondary metabolite biosynthesis",
 "annotation":{
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -205247,7 +205247,7 @@
 "subsystem":"Secondary metabolite biosynthesis",
 "annotation":{
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -205267,7 +205267,7 @@
 "subsystem":"Secondary metabolite biosynthesis",
 "annotation":{
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -205286,7 +205286,7 @@
 "subsystem":"Secondary metabolite biosynthesis",
 "annotation":{
 "pubmed":[
-11927258.0
+"11927258.0"
 ]
 }
 },
@@ -267173,20 +267173,20 @@
 }
 },
 {
-"id":"CIW80_03275",
-"name":"irp1",
-"annotation":{
-"ncbiprotein":[
-"AXY44958.1"
-]
-}
-},
-{
 "id":"CIW80_03485",
 "name":"clbN",
 "annotation":{
 "ncbiprotein":[
 "AXY44995.1"
+]
+}
+},
+{
+"id":"CIW80_03275",
+"name":"irp1",
+"annotation":{
+"ncbiprotein":[
+"AXY44958.1"
 ]
 }
 },
