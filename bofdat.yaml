@@ -1,0 +1,13 @@
+name: bofdat
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - jupyterlab
+  - cobra=0.11
+  - numpy=1.13
+  - biopython=1.76
+  - pip
+  - pip:
+    - BOFdat

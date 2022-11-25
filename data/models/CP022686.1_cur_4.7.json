@@ -92973,8 +92973,9 @@
 },
 {
 "id":"salchs2_p",
-"name":"",
-"compartment":"",
+"name":"Salmochelin-S2",
+"compartment":"p",
+"charge":0,
 "annotation":{
 "metanetx.chemical":[
 "MNXM146229"
@@ -92983,8 +92984,9 @@
 },
 {
 "id":"salchs2_c",
-"name":"",
-"compartment":"",
+"name":"Salmochelin-S2",
+"compartment":"c",
+"charge":0,
 "annotation":{
 "metanetx.chemical":[
 "MNXM146229"
@@ -92993,8 +92995,9 @@
 },
 {
 "id":"salchs1_c",
-"name":"",
-"compartment":"",
+"name":"Salmochelin-S1",
+"compartment":"c",
+"charge":0,
 "annotation":{
 "metanetx.chemical":[
 "MNXM148507"
@@ -93003,8 +93006,9 @@
 },
 {
 "id":"salchsx_c",
-"name":"",
-"compartment":"",
+"name":"Salmochelin-SX",
+"compartment":"c",
+"charge":-1,
 "annotation":{
 "metanetx.chemical":[
 "MNXM146623"
@@ -93778,13 +93782,13 @@
 },
 {
 "id":"clb8_c",
-"name":"",
-"compartment":""
+"name":"Colibactin-8",
+"compartment":"c"
 },
 {
 "id":"clb9_c",
-"name":"",
-"compartment":""
+"name":"Colibactin-9",
+"compartment":"c"
 },
 {
 "id":"serClbH_c",
@@ -267346,7 +267350,6 @@
 ],
 "id":"CP022686.1",
 "compartments":{
-"":"",
 "c":"cytosol",
 "e":"extracellular space",
 "p":"periplasm"

@@ -2567,8 +2567,8 @@ PETNT181pp,iML1515,automatic,3.1,none
 ARMEPNS,iML1515,automatic,3.1,none
 LCARSyi,iML1515,automatic,3.1,none
 MOCDS,iML1515,automatic,3.1,none
-BIOMASS_Ec_iML1515_core_75p37M,iML1515,automatic,3.1,none
-BIOMASS_Ec_iML1515_WT_75p37M,iML1515,automatic,3.1,none
+BIOMASS_Ec_iML1515_core_75p37M,iML1515,removed,3.1,Reaction was replaced by BIOMASS_EcN_iHM1533_core_59p80M in 4.8
+BIOMASS_Ec_iML1515_WT_75p37M,iML1515,removed,3.1,Reaction was replaced by BIOMASS_EcN_iHM1533_core_59p80M in 4.8
 RPNTPH,iML1515,automatic,3.1,none
 PRCPD,iML1515,automatic,3.1,none
 FUSAtex,iML1515,automatic,3.1,none
@@ -3220,3 +3220,4 @@ CLBTinter2,New Reaction,manual,4.6,none
 CLBTinter3,New Reaction,manual,4.6,none
 CLBTNtex,New Reaction,manual,4.6,none
 EX_clbtn_e,New Reaction,manual,4.6,none
+BIOMASS_EcN_iHM1533_core_59p80M,New Reaction,manual,4.8,Reaction added in 4.8. Replaces original iML1515 biomass objective functions
