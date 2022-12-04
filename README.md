@@ -23,11 +23,13 @@ Notebook 4.4 Use gapfilling to identify reactions correcting blocked reactions<b
 Notebook 4.5 Correct errors found during gene essentiality and biology analysis<br>
 Notebook 4.6 Addition of secondary metabolite biosynthetic pathways<br>
 Notebook 4.7 Update of reaction and metabolite annotation and removal of genes and metabolites not linked to reactions<br>
-Notebook 4.8 Analysis of final model
+Notebook 4.8 Update of the biomass objective function using BOFdat[2]<br>
+Notebook 4.9 Analysis of final model
 
 ### 5. Validation
 Notebook 5.1 Comparison of iHM1533 and iDK1463 to biology data<br>
 Notebook 5.2 Comparison of flux predictions of iHM1533 to 13C data<br>
+Notebook 5.2b Comparison of flux predictions of iHM1533 to 13C data with flux variability analysis<br>
 Notebook 5.3 Gene essentiality analysis on M9 media<br>
 Notebook 5.3b Gene essentiality analysis on Gut Microbiome Media (GMM)
 
@@ -36,3 +38,4 @@ Notebook 6.1 FSEOF analysis of secondary metabolite biosynthesis pathways
 
 ### References
 [1] Norsigian, C.J., Fang, X., Seif, Y. et al. A workflow for generating multi-strain genome-scale metabolic models of prokaryotes. Nat Protoc 15, 1–14 (2020). https://doi.org/10.1038/s41596-019-0254-3
+[2] Lachance, J. C., Lloyd, C. J., Monk, J. M., Yang, L., Sastry, A. V., Seif, Y., ... & Jacques, P. É. (2019). BOFdat: Generating biomass objective functions for genome-scale metabolic models from experimental data. PLoS computational biology, 15(4), e1006971.
